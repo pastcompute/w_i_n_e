@@ -97,6 +97,14 @@ http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1329.0.55.0022011-12?OpenDoc
 Vineyards: Production, area and number of businesses by Australia, State and GI Zone:
 http://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&1329055002do002_201112.xls&1329.0.55.002&Data%20Cubes&422FC8129E2E3747CA257A980013DD18&0&2011-12&16.10.2012&Latest
 
+### Exports
+
+http://data.sa.gov.au/data/dataset/international-exports-abs-customised-data
+http://data.sa.gov.au/data/dataset/international-exports-abs-customised-data/resource/9c3c23b7-69a3-4c36-8bd3-fe07442d2271
+https://data.sa.gov.au/data/dataset/10c37b6e-254a-4a49-af7a-7d9cc8f3497f/resource/9c3c23b7-69a3-4c36-8bd3-fe07442d2271/download/saprimaryindustries20140708083024exports.xlsx
+
+We coped segments from the spreadsheet into a form that can be expressed on our web application
+
 
 ### Other:
 
