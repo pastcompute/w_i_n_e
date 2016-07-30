@@ -2,6 +2,8 @@
 
 W_I_N_E is an interactive tool that aims to teach potential employees, investors, or interested students about geographic relationships important to the Australian wine and grape growing industry.
 
+To view the demo, go to https://pastcompute.github.io/w_i_n_e/
+
 ## Outline
 
 This is a proof of concept web application, and given the time constraints of the weekend, we aim to only answer a few questions.
