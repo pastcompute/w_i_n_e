@@ -18,21 +18,21 @@ FrontPie = new d3pie("mainpie", {
 		"titleSubtitlePadding": 9
 	},
 	"footer": {
-		"text": "https://2016.hackerspace.govhack.org/content/wine",
+		"text": "A GovHack Unleashed 2016 entry by team Innovation Generation",
 		"color": "#999999",
 		"fontSize": 10,
 		"font": "open sans",
 		"location": "bottom-left"
 	},
 	"size": {
-		"canvasWidth": 590,
-		"pieOuterRadius": "90%"
+		"canvasWidth": 690,
+		"pieOuterRadius": "95%"
 	},
 	"data": {
 		"sortOrder": "value-desc",
 		"content": [
 			{
-				"label": "Grape Varieties",
+				"label": "Varieties",
 				"value": 100,
 				"color": "#043a00",
         "url"  : "#varieties"
@@ -60,6 +60,12 @@ FrontPie = new d3pie("mainpie", {
 				"value": 100,
 				"color": "#2ea217",
         "url": "#resources"
+			},
+			{
+				"label": "In the news",
+				"value": 100,
+				"color": "#2ea217",
+        "url": "#news"
 			}
 		]
 	},

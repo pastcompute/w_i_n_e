@@ -27,10 +27,11 @@
 <div class="whole" hidden>
   <div class="pageover" id="regions" hidden>
   <h1>Regions</h1>
-    <div id='regions-body'></div>
+    <div id='region-map' style="height:100%;"></div>
   </div>
   <div class="pageover" id="varieties" hidden>
     <h1>Varieties</h1>
+    <text style="font-size:0.5em;">Click anywhere to dismiss</text>
     <div id='variety-pie'></div>
   </div>
   <div class="pageover" id="competition" hidden>
@@ -42,7 +43,13 @@
   <div class="pageover" id="resources" hidden>
     <h1>Resources</h1>
   </div>
+  <div class="pageover" id="news" hidden>
+    <h1>In the news</h1>
+  </div>
 </div>
+<footer style="z-index:999;position:absolute;bottom:1em;">
+<a href="https://2016.hackerspace.govhack.org/content/wine" target="_blank">GovHack 2016 Hackerspace Page </a>
+</footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
