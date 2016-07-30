@@ -25,6 +25,12 @@ var Styles = {
     opacity: 1,
     color: 'yellow',
     fillOpacity: 0.1
+  },
+  regions: {
+    weight: 1,
+    opacity: 1,
+    color: 'red',
+    fillOpacity: 0.7    
   }
 };
 
@@ -68,9 +74,11 @@ Router.prototype.handleTopWedge = function(url) {
   }
 
   if (url === '#regions') {
-    var bbox = data.bbox['AUS'].geometry.coordinates[0];
+    var bbox = data.regionbound.geometry.coordinates[0];
+    console.log(JSON.stringify(bbox));
     console.log('Show map ' + bbox[0] + ';' + bbox[2]);
     data.map.fitBounds([ [bbox[0][1], bbox[0][0]], [bbox[2][1], bbox[2][0]] ]); // ffs why is the map lat lon backwards from geojson
+    data.map.addLayer(data.regionsItem);
   }
 
   if (url === '#vineyards') {
@@ -159,7 +167,7 @@ function onStates(json) {
     onEachFeature: function (feature, layer) {
       data.stateLayers[feature.properties.STATE_CODE] = layer;
       var x = data.bbox[feature.properties.STATE_CODE] = turf.envelope(feature);
-      console.log(JSON.stringify(x));
+//      console.log(JSON.stringify(x));
       layer.on(featureOnState);
     }, // called once for each state
     style : function (feature) { return Styles['states']; }
@@ -185,6 +193,21 @@ var p0 = new Promise(function(resolve, reject) { d3.json('assets/AUS.geo.json', 
 var p1 = new Promise(function(resolve, reject) { d3.json('assets/states.geojson', function(json) { onStates(json); resolve(); }); });
 var p3 = new Promise(function(resolve, reject) { console.log(5); d3.json('assets/regions.json', function(json) { onRegions(json); resolve(); }); });
 var pz = new Promise(function(resolve, reject) { console.log(5); d3.json('assets/au-region-variety.json', function(json) { onRegionVarieties(json); resolve(); }); });
+$.ajax('assets/regions.kml').done(function(xml) {
+  console.log(8);
+  var j = toGeoJSON.kml(xml);
+  // console.log(JSON.stringify(j)); -- featureCollection of polygons
+  data.regiongeo = j;
+  data.regionbound = turf.envelope(j);
+  console.log(JSON.stringify(data.regionbound));
+  var item = L.geoJson(j, {
+    onEachFeature: function (feature, layer) {
+      var x = data.bbox[feature.properties.name] = turf.envelope(feature);
+    },
+    style : function (feature) { return Styles['regions']; }
+  });
+  data.regionsItem = item;
+});
 
 $(document).ready(function() {
   console.log(1);

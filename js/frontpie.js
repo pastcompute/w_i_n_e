@@ -46,19 +46,19 @@ FrontPie = new d3pie("mainpie", {
 			{
 				"label": " Competitors",
 				"value": 105,
-				"color": "#155d07",
+				"color": "#eeeeee",
         "url" : "#competition"
 			},
 			{
 				"label": "Employment",
 				"value": 100,
-				"color": "green",
+				"color": "#eeeeee",
         "url" : "#employment"
 			},
 			{
 				"label": "Economy",
 				"value": 100,
-				"color": "green",
+				"color": "#eeeeee",
         "url" : "#economy"
 			},
 			{
@@ -70,13 +70,19 @@ FrontPie = new d3pie("mainpie", {
 			{
 				"label": "Resources",
 				"value": 100,
-				"color": "#2ea217",
+				"color": "#eeeeee",
         "url": "#resources"
+			},
+			{
+				"label": "Threats",
+				"value": 100,
+				"color": "orange",
+        "url": "#threats"
 			},
 			{
 				"label": "In the news",
 				"value": 100,
-				"color": "#2ea217",
+				"color": "#eeeeee",
         "url": "#news"
 			}
 		]
@@ -91,7 +97,7 @@ FrontPie = new d3pie("mainpie", {
 			"hideWhenLessThanPercentage": 3
 		},
 		"mainLabel": {
-			"color": "#c1a423",
+			"color": "white", 
 			"fontSize": 17
 		},
 		"percentage": {
