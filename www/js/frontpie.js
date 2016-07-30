@@ -34,27 +34,32 @@ FrontPie = new d3pie("mainpie", {
 			{
 				"label": "Grape Varieties",
 				"value": 100,
-				"color": "#043a00"
+				"color": "#043a00",
+        "url"  : "#varieties"
 			},
 			{
 				"label": "Wine Regions",
 				"value": 100,
-				"color": "#0f4904"
+				"color": "#0f4904",
+        "url": "#regions"
 			},
 			{
 				"label": "Competitors",
 				"value": 100,
-				"color": "#155d07"
+				"color": "#155d07",
+        "url" : "#competition"
 			},
 			{
 				"label": "Vineyards",
 				"value": 100,
-				"color": "#207f0e"
+				"color": "#207f0e",
+        "url": "#vineyards"
 			},
 			{
 				"label": "Resources",
 				"value": 100,
-				"color": "#2ea217"
+				"color": "#2ea217",
+        "url": "#resources"
 			}
 		]
 	},
@@ -96,7 +101,9 @@ FrontPie = new d3pie("mainpie", {
 			"percentage": 100
 		}
 	},
-	"callbacks": {}
+	"callbacks": {
+    "onClickSegment": function(e) { console.log(JSON.stringify(e)); router.handleTopWedge(e.data.url); }
+  }
 });
 
 });
