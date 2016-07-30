@@ -58,7 +58,7 @@ FrontPie = new d3pie("mainpie", {
 			{
 				"label": "Economy",
 				"value": 100,
-				"color": "#eeeeee",
+				"color": "#0011dd",
         "url" : "#economy"
 			},
 			{

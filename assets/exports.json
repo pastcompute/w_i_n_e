@@ -1,0 +1,5770 @@
+[
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Antarctica",
+    "Qty": 20,
+    "Unit": "Litres",
+    "Value 000": 2.647
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Bangladesh",
+    "Qty": 16,
+    "Unit": "Litres",
+    "Value 000": 1.039
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Belgium",
+    "Qty": 8829,
+    "Unit": "Litres",
+    "Value 000": 69.757
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Bermuda",
+    "Qty": 1011,
+    "Unit": "Litres",
+    "Value 000": 3.269
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Cambodia",
+    "Qty": 1512,
+    "Unit": "Litres",
+    "Value 000": 11.902
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Canada",
+    "Qty": 189774,
+    "Unit": "Litres",
+    "Value 000": 688.485
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 9447,
+    "Unit": "Litres",
+    "Value 000": 126.81
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Christmas Island",
+    "Qty": 703,
+    "Unit": "Litres",
+    "Value 000": 19.509
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 41,
+    "Unit": "Litres",
+    "Value 000": 3.36
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Cook Islands",
+    "Qty": 77,
+    "Unit": "Litres",
+    "Value 000": 1.728
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Denmark",
+    "Qty": 124223,
+    "Unit": "Litres",
+    "Value 000": 422.32
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Fiji",
+    "Qty": 4291,
+    "Unit": "Litres",
+    "Value 000": 234.603
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Finland",
+    "Qty": 194463,
+    "Unit": "Litres",
+    "Value 000": 673.107
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "French Polynesia",
+    "Qty": 729,
+    "Unit": "Litres",
+    "Value 000": 35.787
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Germany",
+    "Qty": 135,
+    "Unit": "Litres",
+    "Value 000": 2.071
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Guam",
+    "Qty": 113,
+    "Unit": "Litres",
+    "Value 000": 1.05
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 80176,
+    "Unit": "Litres",
+    "Value 000": 840.604
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "India",
+    "Qty": 2097,
+    "Unit": "Litres",
+    "Value 000": 15.592
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Indonesia",
+    "Qty": 1102,
+    "Unit": "Litres",
+    "Value 000": 15.556
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Ireland",
+    "Qty": 14164,
+    "Unit": "Litres",
+    "Value 000": 49.722
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Japan",
+    "Qty": 71005,
+    "Unit": "Litres",
+    "Value 000": 459.279
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Kenya",
+    "Qty": 104,
+    "Unit": "Litres",
+    "Value 000": 2.034
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Korea, Republic of",
+    "Qty": 74247,
+    "Unit": "Litres",
+    "Value 000": 407.276
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Latvia",
+    "Qty": 1467,
+    "Unit": "Litres",
+    "Value 000": 9.703
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Malaysia",
+    "Qty": 18409,
+    "Unit": "Litres",
+    "Value 000": 208.235
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Mauritius",
+    "Qty": 1440,
+    "Unit": "Litres",
+    "Value 000": 7.2
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Micronesia Fed States of",
+    "Qty": 14,
+    "Unit": "Litres",
+    "Value 000": 0.967
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Mongolia",
+    "Qty": 450,
+    "Unit": "Litres",
+    "Value 000": 2.95
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 105,
+    "Unit": "Litres",
+    "Value 000": 6.934
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Nauru",
+    "Qty": 77,
+    "Unit": "Litres",
+    "Value 000": 1.128
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Nepal",
+    "Qty": 293,
+    "Unit": "Litres",
+    "Value 000": 1.77
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Netherlands",
+    "Qty": 227922,
+    "Unit": "Litres",
+    "Value 000": 759.433
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "New Caledonia",
+    "Qty": 3749,
+    "Unit": "Litres",
+    "Value 000": 164.558
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "New Zealand",
+    "Qty": 242741,
+    "Unit": "Litres",
+    "Value 000": 3948.508
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Norfolk Island",
+    "Qty": 491,
+    "Unit": "Litres",
+    "Value 000": 6.084
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Norway",
+    "Qty": 113900,
+    "Unit": "Litres",
+    "Value 000": 423.847
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Panama",
+    "Qty": 126,
+    "Unit": "Litres",
+    "Value 000": 0.379
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Papua New Guinea",
+    "Qty": 3402,
+    "Unit": "Litres",
+    "Value 000": 147.415
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Philippines",
+    "Qty": 3708,
+    "Unit": "Litres",
+    "Value 000": 20.22
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Qatar",
+    "Qty": 1800,
+    "Unit": "Litres",
+    "Value 000": 5.228
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 30840,
+    "Unit": "Litres",
+    "Value 000": 201.112
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Singapore",
+    "Qty": 50565,
+    "Unit": "Litres",
+    "Value 000": 628.93
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Solomon Islands",
+    "Qty": 204,
+    "Unit": "Litres",
+    "Value 000": 9.36
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "South Africa",
+    "Qty": 4745,
+    "Unit": "Litres",
+    "Value 000": 61.826
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Spain",
+    "Qty": 2481,
+    "Unit": "Litres",
+    "Value 000": 25.047
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Sri Lanka",
+    "Qty": 144,
+    "Unit": "Litres",
+    "Value 000": 1.84
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Sweden",
+    "Qty": 149013,
+    "Unit": "Litres",
+    "Value 000": 539.418
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Switzerland",
+    "Qty": 5940,
+    "Unit": "Litres",
+    "Value 000": 20.721
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Taiwan",
+    "Qty": 450,
+    "Unit": "Litres",
+    "Value 000": 24.214
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Thailand",
+    "Qty": 15026,
+    "Unit": "Litres",
+    "Value 000": 121.526
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Timor-Leste",
+    "Qty": 775,
+    "Unit": "Litres",
+    "Value 000": 9.489
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Tonga",
+    "Qty": 18,
+    "Unit": "Litres",
+    "Value 000": 1.17
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "United Arab Emirates",
+    "Qty": 36357,
+    "Unit": "Litres",
+    "Value 000": 200.221
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "United Kingdom",
+    "Qty": 390270,
+    "Unit": "Litres",
+    "Value 000": 1947.761
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "United States of America",
+    "Qty": 563069,
+    "Unit": "Litres",
+    "Value 000": 2475.441
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "United States Virgin Is",
+    "Qty": 63,
+    "Unit": "Litres",
+    "Value 000": 0.586
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Vanuatu",
+    "Qty": 1639,
+    "Unit": "Litres",
+    "Value 000": 42.57
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Viet Nam",
+    "Qty": 31752,
+    "Unit": "Litres",
+    "Value 000": 450.949
+  },
+  {
+    "AHECC": 22041010,
+    "Label": "Champagne from fresh grapes (that is wine in which the natural effervescence is solely produced by fermentation in the bottle)",
+    "Destination": "Virgin Islands, British",
+    "Qty": 216,
+    "Unit": "Litres",
+    "Value 000": 2.011
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Antarctica",
+    "Qty": 68,
+    "Unit": "Litres",
+    "Value 000": 0.487
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Austria",
+    "Qty": 450,
+    "Unit": "Litres",
+    "Value 000": 7.583
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Bahamas",
+    "Qty": 1170,
+    "Unit": "Litres",
+    "Value 000": 4.252
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Bahrain",
+    "Qty": 2547,
+    "Unit": "Litres",
+    "Value 000": 9.198
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Bangladesh",
+    "Qty": 1103,
+    "Unit": "Litres",
+    "Value 000": 12.108
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Barbados",
+    "Qty": 1944,
+    "Unit": "Litres",
+    "Value 000": 6.872
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Belgium",
+    "Qty": 196279,
+    "Unit": "Litres",
+    "Value 000": 1238.909
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Bermuda",
+    "Qty": 1206,
+    "Unit": "Litres",
+    "Value 000": 4.424
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Brazil",
+    "Qty": 4653,
+    "Unit": "Litres",
+    "Value 000": 21.045
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Brunei Darussalam",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 0.118
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Cambodia",
+    "Qty": 3447,
+    "Unit": "Litres",
+    "Value 000": 25.258
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Canada",
+    "Qty": 451031,
+    "Unit": "Litres",
+    "Value 000": 2624.387
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Cayman Islands",
+    "Qty": 270,
+    "Unit": "Litres",
+    "Value 000": 0.948
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 593303,
+    "Unit": "Litres",
+    "Value 000": 3029.707
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Christmas Island",
+    "Qty": 847,
+    "Unit": "Litres",
+    "Value 000": 8.812
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 780,
+    "Unit": "Litres",
+    "Value 000": 9.426
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Cook Islands",
+    "Qty": 1507,
+    "Unit": "Litres",
+    "Value 000": 9.758
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Denmark",
+    "Qty": 15778,
+    "Unit": "Litres",
+    "Value 000": 157.138
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Estonia",
+    "Qty": 2061,
+    "Unit": "Litres",
+    "Value 000": 11.935
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Fiji",
+    "Qty": 61964,
+    "Unit": "Litres",
+    "Value 000": 360.461
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Finland",
+    "Qty": 93339,
+    "Unit": "Litres",
+    "Value 000": 653.526
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "French Polynesia",
+    "Qty": 16128,
+    "Unit": "Litres",
+    "Value 000": 156.212
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Germany",
+    "Qty": 4385,
+    "Unit": "Litres",
+    "Value 000": 44.519
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Ghana",
+    "Qty": 2362,
+    "Unit": "Litres",
+    "Value 000": 8.5
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Greece",
+    "Qty": 27,
+    "Unit": "Litres",
+    "Value 000": 0.475
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Guam",
+    "Qty": 288,
+    "Unit": "Litres",
+    "Value 000": 1.894
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 148013,
+    "Unit": "Litres",
+    "Value 000": 976.673
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "India",
+    "Qty": 31857,
+    "Unit": "Litres",
+    "Value 000": 134.263
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Indonesia",
+    "Qty": 14891,
+    "Unit": "Litres",
+    "Value 000": 129.162
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Ireland",
+    "Qty": 85320,
+    "Unit": "Litres",
+    "Value 000": 370.064
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Japan",
+    "Qty": 1233162,
+    "Unit": "Litres",
+    "Value 000": 6807.275
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Kenya",
+    "Qty": 509,
+    "Unit": "Litres",
+    "Value 000": 4.359
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Korea, Republic of",
+    "Qty": 25694,
+    "Unit": "Litres",
+    "Value 000": 185.305
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Laos",
+    "Qty": 63,
+    "Unit": "Litres",
+    "Value 000": 0.511
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Latvia",
+    "Qty": 26969,
+    "Unit": "Litres",
+    "Value 000": 200.308
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Macau (SAR of China)",
+    "Qty": 257,
+    "Unit": "Litres",
+    "Value 000": 2.87
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Malaysia",
+    "Qty": 32916,
+    "Unit": "Litres",
+    "Value 000": 269.14
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Maldives",
+    "Qty": 1575,
+    "Unit": "Litres",
+    "Value 000": 6.3
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Mali",
+    "Qty": 6,
+    "Unit": "Litres",
+    "Value 000": 0.263
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Marianas Northern",
+    "Qty": 93,
+    "Unit": "Litres",
+    "Value 000": 0.655
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Marshall Islands",
+    "Qty": 23,
+    "Unit": "Litres",
+    "Value 000": 0.175
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Mexico",
+    "Qty": 3366,
+    "Unit": "Litres",
+    "Value 000": 13.896
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 680,
+    "Unit": "Litres",
+    "Value 000": 6.824
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Nauru",
+    "Qty": 231,
+    "Unit": "Litres",
+    "Value 000": 2.612
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Nepal",
+    "Qty": 788,
+    "Unit": "Litres",
+    "Value 000": 5.34
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Netherlands",
+    "Qty": 99939,
+    "Unit": "Litres",
+    "Value 000": 590.918
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Netherlands Antilles",
+    "Qty": 360,
+    "Unit": "Litres",
+    "Value 000": 1.286
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "New Caledonia",
+    "Qty": 10817,
+    "Unit": "Litres",
+    "Value 000": 134.47
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "New Zealand",
+    "Qty": 1224084,
+    "Unit": "Litres",
+    "Value 000": 5729.214
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Nigeria",
+    "Qty": 11057,
+    "Unit": "Litres",
+    "Value 000": 39.823
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Norfolk Island",
+    "Qty": 9342,
+    "Unit": "Litres",
+    "Value 000": 40.742
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Norway",
+    "Qty": 119900,
+    "Unit": "Litres",
+    "Value 000": 760.203
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Oman",
+    "Qty": 347,
+    "Unit": "Litres",
+    "Value 000": 1.611
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Palau",
+    "Qty": 23,
+    "Unit": "Litres",
+    "Value 000": 0.175
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Papua New Guinea",
+    "Qty": 20085,
+    "Unit": "Litres",
+    "Value 000": 165.273
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Peru",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 1.345
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Philippines",
+    "Qty": 5093,
+    "Unit": "Litres",
+    "Value 000": 37.45
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Poland",
+    "Qty": 43943,
+    "Unit": "Litres",
+    "Value 000": 170.334
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Puerto Rico",
+    "Qty": 4644,
+    "Unit": "Litres",
+    "Value 000": 25.694
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Qatar",
+    "Qty": 10205,
+    "Unit": "Litres",
+    "Value 000": 39.128
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Samoa",
+    "Qty": 337,
+    "Unit": "Litres",
+    "Value 000": 1.48
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 68313,
+    "Unit": "Litres",
+    "Value 000": 287.975
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Sierra Leone",
+    "Qty": 4500,
+    "Unit": "Litres",
+    "Value 000": 16.65
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Singapore",
+    "Qty": 588811,
+    "Unit": "Litres",
+    "Value 000": 5177.493
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Solomon Islands",
+    "Qty": 2795,
+    "Unit": "Litres",
+    "Value 000": 18.756
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "South Africa",
+    "Qty": 5540,
+    "Unit": "Litres",
+    "Value 000": 83.933
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Spain",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 0.055
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Sri Lanka",
+    "Qty": 9746,
+    "Unit": "Litres",
+    "Value 000": 36.751
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "St Christopher and Nevis",
+    "Qty": 180,
+    "Unit": "Litres",
+    "Value 000": 0.87
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "St. Helena",
+    "Qty": 439,
+    "Unit": "Litres",
+    "Value 000": 5.656
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Sweden",
+    "Qty": 204032,
+    "Unit": "Litres",
+    "Value 000": 1042.172
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Switzerland",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.61
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Taiwan",
+    "Qty": 25004,
+    "Unit": "Litres",
+    "Value 000": 171.109
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Thailand",
+    "Qty": 353728,
+    "Unit": "Litres",
+    "Value 000": 1107.609
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Timor-Leste",
+    "Qty": 1350,
+    "Unit": "Litres",
+    "Value 000": 8.941
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Tonga",
+    "Qty": 131,
+    "Unit": "Litres",
+    "Value 000": 1.357
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 32868,
+    "Unit": "Litres",
+    "Value 000": 119.884
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Turkey",
+    "Qty": 3259,
+    "Unit": "Litres",
+    "Value 000": 18.434
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Uganda",
+    "Qty": 180,
+    "Unit": "Litres",
+    "Value 000": 0.89
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "United Arab Emirates",
+    "Qty": 243662,
+    "Unit": "Litres",
+    "Value 000": 1038.217
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "United Kingdom",
+    "Qty": 2077612,
+    "Unit": "Litres",
+    "Value 000": 8168.071
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "United States of America",
+    "Qty": 1555254,
+    "Unit": "Litres",
+    "Value 000": 5543.654
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Vanuatu",
+    "Qty": 12438,
+    "Unit": "Litres",
+    "Value 000": 56.882
+  },
+  {
+    "AHECC": 22041090,
+    "Label": "Sparkling wine from fresh grapes (excl. champagne and wine of grape must HS 2009)",
+    "Destination": "Viet Nam",
+    "Qty": 29184,
+    "Unit": "Litres",
+    "Value 000": 171.311
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Antarctica",
+    "Qty": 54,
+    "Unit": "Litres",
+    "Value 000": 0.883
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Bahrain",
+    "Qty": 960,
+    "Unit": "Litres",
+    "Value 000": 2.64
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Bangladesh",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 0.131
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Belgium",
+    "Qty": 1586,
+    "Unit": "Litres",
+    "Value 000": 26.87
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Brunei Darussalam",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 0.065
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 267315,
+    "Unit": "Litres",
+    "Value 000": 938.928
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 294740,
+    "Unit": "Litres",
+    "Value 000": 2295.604
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Christmas Island",
+    "Qty": 333,
+    "Unit": "Litres",
+    "Value 000": 5.137
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 24,
+    "Unit": "Litres",
+    "Value 000": 0.073
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Cook Islands",
+    "Qty": 212,
+    "Unit": "Litres",
+    "Value 000": 1.451
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Denmark",
+    "Qty": 11650,
+    "Unit": "Litres",
+    "Value 000": 159.224
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Fiji",
+    "Qty": 4119,
+    "Unit": "Litres",
+    "Value 000": 22.91
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Finland",
+    "Qty": 104,
+    "Unit": "Litres",
+    "Value 000": 17.414
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "France",
+    "Qty": 135,
+    "Unit": "Litres",
+    "Value 000": 2.4
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Germany",
+    "Qty": 161,
+    "Unit": "Litres",
+    "Value 000": 3.58
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Ghana",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.68
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Greece",
+    "Qty": 68,
+    "Unit": "Litres",
+    "Value 000": 2.51
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Guam",
+    "Qty": 1053,
+    "Unit": "Litres",
+    "Value 000": 13.858
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 18570,
+    "Unit": "Litres",
+    "Value 000": 208.091
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "India",
+    "Qty": 405,
+    "Unit": "Litres",
+    "Value 000": 3.419
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Indonesia",
+    "Qty": 216,
+    "Unit": "Litres",
+    "Value 000": 5.403
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 528,
+    "Unit": "Litres",
+    "Value 000": 8.597
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 9122,
+    "Unit": "Litres",
+    "Value 000": 76.149
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 17276,
+    "Unit": "Litres",
+    "Value 000": 146.542
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Latvia",
+    "Qty": 360,
+    "Unit": "Litres",
+    "Value 000": 3.576
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Macau (SAR of China)",
+    "Qty": 9,
+    "Unit": "Litres",
+    "Value 000": 0.198
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 2691,
+    "Unit": "Litres",
+    "Value 000": 46.524
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Maldives",
+    "Qty": 18,
+    "Unit": "Litres",
+    "Value 000": 0.886
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Mexico",
+    "Qty": 99,
+    "Unit": "Litres",
+    "Value 000": 0.467
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Micronesia Fed States of",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 0.069
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 9,
+    "Unit": "Litres",
+    "Value 000": 0.411
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Nepal",
+    "Qty": 16958,
+    "Unit": "Litres",
+    "Value 000": 43.544
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Netherlands",
+    "Qty": 3313,
+    "Unit": "Litres",
+    "Value 000": 30.873
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "New Caledonia",
+    "Qty": 72,
+    "Unit": "Litres",
+    "Value 000": 0.8
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 94664,
+    "Unit": "Litres",
+    "Value 000": 636.223
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Norfolk Island",
+    "Qty": 740,
+    "Unit": "Litres",
+    "Value 000": 3.856
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 91,
+    "Unit": "Litres",
+    "Value 000": 7.309
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Oman",
+    "Qty": 1760,
+    "Unit": "Litres",
+    "Value 000": 4.62
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 19495,
+    "Unit": "Litres",
+    "Value 000": 87.067
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Philippines",
+    "Qty": 221,
+    "Unit": "Litres",
+    "Value 000": 4.658
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Qatar",
+    "Qty": 12368,
+    "Unit": "Litres",
+    "Value 000": 34.785
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Samoa",
+    "Qty": 3006,
+    "Unit": "Litres",
+    "Value 000": 10.577
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 1458,
+    "Unit": "Litres",
+    "Value 000": 29.521
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 7990,
+    "Unit": "Litres",
+    "Value 000": 68.736
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Solomon Islands",
+    "Qty": 12563,
+    "Unit": "Litres",
+    "Value 000": 49.854
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "South Africa",
+    "Qty": 1224,
+    "Unit": "Litres",
+    "Value 000": 7.479
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Spain",
+    "Qty": 5,
+    "Unit": "Litres",
+    "Value 000": 2.796
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Sri Lanka",
+    "Qty": 5094,
+    "Unit": "Litres",
+    "Value 000": 21.348
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "St. Helena",
+    "Qty": 149,
+    "Unit": "Litres",
+    "Value 000": 1.868
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Sweden",
+    "Qty": 48824,
+    "Unit": "Litres",
+    "Value 000": 84.117
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Switzerland",
+    "Qty": 292,
+    "Unit": "Litres",
+    "Value 000": 8.022
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Taiwan",
+    "Qty": 14544,
+    "Unit": "Litres",
+    "Value 000": 113.432
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 3447,
+    "Unit": "Litres",
+    "Value 000": 11.715
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Timor-Leste",
+    "Qty": 18,
+    "Unit": "Litres",
+    "Value 000": 0.326
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Tonga",
+    "Qty": 1287,
+    "Unit": "Litres",
+    "Value 000": 4.505
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Turkey",
+    "Qty": 59,
+    "Unit": "Litres",
+    "Value 000": 1.567
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 52402,
+    "Unit": "Litres",
+    "Value 000": 305.215
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 40766,
+    "Unit": "Litres",
+    "Value 000": 450.177
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 135215,
+    "Unit": "Litres",
+    "Value 000": 1042.416
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Vanuatu",
+    "Qty": 875,
+    "Unit": "Litres",
+    "Value 000": 5.75
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 2228,
+    "Unit": "Litres",
+    "Value 000": 10.48
+  },
+  {
+    "AHECC": 22042140,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers not exceeding 2 L",
+    "Destination": "Virgin Islands, British",
+    "Qty": 153,
+    "Unit": "Litres",
+    "Value 000": 0.904
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Antarctica",
+    "Qty": 317,
+    "Unit": "Litres",
+    "Value 000": 3.049
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Austria",
+    "Qty": 9667,
+    "Unit": "Litres",
+    "Value 000": 42.288
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bahamas",
+    "Qty": 15939,
+    "Unit": "Litres",
+    "Value 000": 47.18
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bahrain",
+    "Qty": 10116,
+    "Unit": "Litres",
+    "Value 000": 38.237
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bangladesh",
+    "Qty": 8950,
+    "Unit": "Litres",
+    "Value 000": 51.155
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Barbados",
+    "Qty": 36188,
+    "Unit": "Litres",
+    "Value 000": 130.539
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Belgium",
+    "Qty": 532771,
+    "Unit": "Litres",
+    "Value 000": 2293.429
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bermuda",
+    "Qty": 24088,
+    "Unit": "Litres",
+    "Value 000": 79.075
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bhutan",
+    "Qty": 2790,
+    "Unit": "Litres",
+    "Value 000": 12.9
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Brazil",
+    "Qty": 50041,
+    "Unit": "Litres",
+    "Value 000": 224.408
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Brunei Darussalam",
+    "Qty": 63,
+    "Unit": "Litres",
+    "Value 000": 1.127
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cambodia",
+    "Qty": 67161,
+    "Unit": "Litres",
+    "Value 000": 333.101
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 9146317,
+    "Unit": "Litres",
+    "Value 000": 37235.655
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cayman Islands",
+    "Qty": 29970,
+    "Unit": "Litres",
+    "Value 000": 88.667
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Chile",
+    "Qty": 4662,
+    "Unit": "Litres",
+    "Value 000": 13.005
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 2197374,
+    "Unit": "Litres",
+    "Value 000": 12070.777
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Christmas Island",
+    "Qty": 10610,
+    "Unit": "Litres",
+    "Value 000": 108.205
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 2935,
+    "Unit": "Litres",
+    "Value 000": 31.112
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Colombia",
+    "Qty": 1035,
+    "Unit": "Litres",
+    "Value 000": 13.55
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cook Islands",
+    "Qty": 9707,
+    "Unit": "Litres",
+    "Value 000": 54.256
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Costa Rica",
+    "Qty": 5787,
+    "Unit": "Litres",
+    "Value 000": 16.922
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cyprus",
+    "Qty": 3681,
+    "Unit": "Litres",
+    "Value 000": 16.329
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Czech Republic",
+    "Qty": 2457,
+    "Unit": "Litres",
+    "Value 000": 7.202
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Denmark",
+    "Qty": 778683,
+    "Unit": "Litres",
+    "Value 000": 3146.698
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Dominica",
+    "Qty": 720,
+    "Unit": "Litres",
+    "Value 000": 5.7
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Dominican Republic",
+    "Qty": 4050,
+    "Unit": "Litres",
+    "Value 000": 12.174
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "El Salvador",
+    "Qty": 945,
+    "Unit": "Litres",
+    "Value 000": 3.012
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Estonia",
+    "Qty": 24471,
+    "Unit": "Litres",
+    "Value 000": 126.602
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Fiji",
+    "Qty": 199344,
+    "Unit": "Litres",
+    "Value 000": 936.739
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Finland",
+    "Qty": 550315,
+    "Unit": "Litres",
+    "Value 000": 2083.897
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "France",
+    "Qty": 66052,
+    "Unit": "Litres",
+    "Value 000": 328.269
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "French Polynesia",
+    "Qty": 3825,
+    "Unit": "Litres",
+    "Value 000": 24.56
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Germany",
+    "Qty": 405787,
+    "Unit": "Litres",
+    "Value 000": 1661.326
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ghana",
+    "Qty": 3739,
+    "Unit": "Litres",
+    "Value 000": 23.188
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Greece",
+    "Qty": 932,
+    "Unit": "Litres",
+    "Value 000": 12.559
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Guam",
+    "Qty": 35037,
+    "Unit": "Litres",
+    "Value 000": 133.986
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 1226009,
+    "Unit": "Litres",
+    "Value 000": 8219.031
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Iceland",
+    "Qty": 8001,
+    "Unit": "Litres",
+    "Value 000": 43.415
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "India",
+    "Qty": 249921,
+    "Unit": "Litres",
+    "Value 000": 882.082
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Indonesia",
+    "Qty": 56446,
+    "Unit": "Litres",
+    "Value 000": 516.568
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 1453775,
+    "Unit": "Litres",
+    "Value 000": 5167.965
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Israel",
+    "Qty": 6588,
+    "Unit": "Litres",
+    "Value 000": 22.79
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Italy",
+    "Qty": 33143,
+    "Unit": "Litres",
+    "Value 000": 118.823
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Jamaica",
+    "Qty": 28395,
+    "Unit": "Litres",
+    "Value 000": 100.182
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 2404832,
+    "Unit": "Litres",
+    "Value 000": 11003.424
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Kenya",
+    "Qty": 36613,
+    "Unit": "Litres",
+    "Value 000": 178.962
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Kiribati",
+    "Qty": 959,
+    "Unit": "Litres",
+    "Value 000": 7.716
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 159025,
+    "Unit": "Litres",
+    "Value 000": 919.863
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Laos",
+    "Qty": 261,
+    "Unit": "Litres",
+    "Value 000": 2.095
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Latvia",
+    "Qty": 489804,
+    "Unit": "Litres",
+    "Value 000": 1660.481
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Lithuania",
+    "Qty": 8568,
+    "Unit": "Litres",
+    "Value 000": 33.32
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Macau (SAR of China)",
+    "Qty": 3159,
+    "Unit": "Litres",
+    "Value 000": 22.208
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 442526,
+    "Unit": "Litres",
+    "Value 000": 2614.708
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Maldives",
+    "Qty": 8855,
+    "Unit": "Litres",
+    "Value 000": 81.212
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mali",
+    "Qty": 36,
+    "Unit": "Litres",
+    "Value 000": 0.378
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Malta",
+    "Qty": 8532,
+    "Unit": "Litres",
+    "Value 000": 43.054
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Marianas Northern",
+    "Qty": 3629,
+    "Unit": "Litres",
+    "Value 000": 7.851
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Marshall Islands",
+    "Qty": 2471,
+    "Unit": "Litres",
+    "Value 000": 9.275
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mauritius",
+    "Qty": 13199,
+    "Unit": "Litres",
+    "Value 000": 65.595
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mexico",
+    "Qty": 47291,
+    "Unit": "Litres",
+    "Value 000": 180.939
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Micronesia Fed States of",
+    "Qty": 729,
+    "Unit": "Litres",
+    "Value 000": 3.531
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mongolia",
+    "Qty": 2475,
+    "Unit": "Litres",
+    "Value 000": 14.925
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Morocco",
+    "Qty": 378,
+    "Unit": "Litres",
+    "Value 000": 5.875
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 3600,
+    "Unit": "Litres",
+    "Value 000": 34.486
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nauru",
+    "Qty": 4067,
+    "Unit": "Litres",
+    "Value 000": 10.411
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nepal",
+    "Qty": 8820,
+    "Unit": "Litres",
+    "Value 000": 40.68
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands",
+    "Qty": 3312997,
+    "Unit": "Litres",
+    "Value 000": 10212.903
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands Antilles",
+    "Qty": 21200,
+    "Unit": "Litres",
+    "Value 000": 67.525
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "New Caledonia",
+    "Qty": 45447,
+    "Unit": "Litres",
+    "Value 000": 295.739
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 2309261,
+    "Unit": "Litres",
+    "Value 000": 7790.112
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nigeria",
+    "Qty": 10584,
+    "Unit": "Litres",
+    "Value 000": 46.939
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Norfolk Island",
+    "Qty": 28905,
+    "Unit": "Litres",
+    "Value 000": 162.816
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 237506,
+    "Unit": "Litres",
+    "Value 000": 1009.271
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Oman",
+    "Qty": 5949,
+    "Unit": "Litres",
+    "Value 000": 27.909
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Palau",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.7
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Panama",
+    "Qty": 5292,
+    "Unit": "Litres",
+    "Value 000": 15.148
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 118281,
+    "Unit": "Litres",
+    "Value 000": 676.91
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Paraguay",
+    "Qty": 630,
+    "Unit": "Litres",
+    "Value 000": 2.59
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Peru",
+    "Qty": 81,
+    "Unit": "Litres",
+    "Value 000": 1.529
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Philippines",
+    "Qty": 313925,
+    "Unit": "Litres",
+    "Value 000": 1396.718
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Poland",
+    "Qty": 201717,
+    "Unit": "Litres",
+    "Value 000": 676.917
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Portugal",
+    "Qty": 945,
+    "Unit": "Litres",
+    "Value 000": 2.319
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Puerto Rico",
+    "Qty": 25371,
+    "Unit": "Litres",
+    "Value 000": 78.964
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Qatar",
+    "Qty": 42336,
+    "Unit": "Litres",
+    "Value 000": 224.688
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Russian Federation",
+    "Qty": 51813,
+    "Unit": "Litres",
+    "Value 000": 308.006
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Samoa",
+    "Qty": 13458,
+    "Unit": "Litres",
+    "Value 000": 43.894
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Saudi Arabia",
+    "Qty": 45,
+    "Unit": "Litres",
+    "Value 000": 0.682
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Serbia",
+    "Qty": 405,
+    "Unit": "Litres",
+    "Value 000": 3.43
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Seychelles",
+    "Qty": 117,
+    "Unit": "Litres",
+    "Value 000": 0.676
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 157471,
+    "Unit": "Litres",
+    "Value 000": 1044.039
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 1685771,
+    "Unit": "Litres",
+    "Value 000": 9232.389
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Slovak Republic",
+    "Qty": 5292,
+    "Unit": "Litres",
+    "Value 000": 13.509
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Solomon Islands",
+    "Qty": 28992,
+    "Unit": "Litres",
+    "Value 000": 138.765
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "South Africa",
+    "Qty": 50906,
+    "Unit": "Litres",
+    "Value 000": 2068.923
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Spain",
+    "Qty": 33359,
+    "Unit": "Litres",
+    "Value 000": 179.078
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Sri Lanka",
+    "Qty": 60285,
+    "Unit": "Litres",
+    "Value 000": 278.972
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St Christopher and Nevis",
+    "Qty": 1958,
+    "Unit": "Litres",
+    "Value 000": 7.126
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St. Helena",
+    "Qty": 1341,
+    "Unit": "Litres",
+    "Value 000": 13.786
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St. Lucia",
+    "Qty": 8775,
+    "Unit": "Litres",
+    "Value 000": 25.688
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Sweden",
+    "Qty": 1276553,
+    "Unit": "Litres",
+    "Value 000": 4882.108
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Switzerland",
+    "Qty": 17410,
+    "Unit": "Litres",
+    "Value 000": 116.015
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Syria",
+    "Qty": 225,
+    "Unit": "Litres",
+    "Value 000": 0.826
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Taiwan",
+    "Qty": 207620,
+    "Unit": "Litres",
+    "Value 000": 1153.249
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 673195,
+    "Unit": "Litres",
+    "Value 000": 2650.291
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Timor-Leste",
+    "Qty": 52892,
+    "Unit": "Litres",
+    "Value 000": 53.201
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Tonga",
+    "Qty": 2263,
+    "Unit": "Litres",
+    "Value 000": 16.53
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 27999,
+    "Unit": "Litres",
+    "Value 000": 91.192
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Turkey",
+    "Qty": 13262,
+    "Unit": "Litres",
+    "Value 000": 91.236
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Tuvalu",
+    "Qty": 225,
+    "Unit": "Litres",
+    "Value 000": 0.8
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Uganda",
+    "Qty": 8482,
+    "Unit": "Litres",
+    "Value 000": 29.837
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ukraine",
+    "Qty": 35835,
+    "Unit": "Litres",
+    "Value 000": 185.323
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 1156532,
+    "Unit": "Litres",
+    "Value 000": 5794.213
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 19766010,
+    "Unit": "Litres",
+    "Value 000": 57490.046
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 44157970,
+    "Unit": "Litres",
+    "Value 000": 133363.921
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United States Virgin Is",
+    "Qty": 19512,
+    "Unit": "Litres",
+    "Value 000": 56.892
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Uruguay",
+    "Qty": 5292,
+    "Unit": "Litres",
+    "Value 000": 27.79
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Vanuatu",
+    "Qty": 46768,
+    "Unit": "Litres",
+    "Value 000": 209.696
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 113671,
+    "Unit": "Litres",
+    "Value 000": 604.892
+  },
+  {
+    "AHECC": 22042151,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Virgin Islands, British",
+    "Qty": 4302,
+    "Unit": "Litres",
+    "Value 000": 16.16
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Antarctica",
+    "Qty": 812,
+    "Unit": "Litres",
+    "Value 000": 13.951
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Austria",
+    "Qty": 176341,
+    "Unit": "Litres",
+    "Value 000": 673.631
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bahamas",
+    "Qty": 26685,
+    "Unit": "Litres",
+    "Value 000": 84.157
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bahrain",
+    "Qty": 13734,
+    "Unit": "Litres",
+    "Value 000": 50.65
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bangladesh",
+    "Qty": 17686,
+    "Unit": "Litres",
+    "Value 000": 106.08
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Barbados",
+    "Qty": 183146,
+    "Unit": "Litres",
+    "Value 000": 135.632
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Belgium",
+    "Qty": 597791,
+    "Unit": "Litres",
+    "Value 000": 3423.147
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bermuda",
+    "Qty": 52175,
+    "Unit": "Litres",
+    "Value 000": 209.676
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Bhutan",
+    "Qty": 3600,
+    "Unit": "Litres",
+    "Value 000": 18.3
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Brazil",
+    "Qty": 168228,
+    "Unit": "Litres",
+    "Value 000": 946.424
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Brunei Darussalam",
+    "Qty": 113,
+    "Unit": "Litres",
+    "Value 000": 1.773
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Burkina Faso",
+    "Qty": 25,
+    "Unit": "Litres",
+    "Value 000": 5.554
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cambodia",
+    "Qty": 91781,
+    "Unit": "Litres",
+    "Value 000": 539.053
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 19706429,
+    "Unit": "Litres",
+    "Value 000": 109411.854
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cayman Islands",
+    "Qty": 32724,
+    "Unit": "Litres",
+    "Value 000": 103.72
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Chile",
+    "Qty": 4662,
+    "Unit": "Litres",
+    "Value 000": 15.346
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 34506366,
+    "Unit": "Litres",
+    "Value 000": 170179.691
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Christmas Island",
+    "Qty": 10921,
+    "Unit": "Litres",
+    "Value 000": 104.321
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 3826,
+    "Unit": "Litres",
+    "Value 000": 26.127
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Colombia",
+    "Qty": 15304,
+    "Unit": "Litres",
+    "Value 000": 27.94
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cook Islands",
+    "Qty": 24584,
+    "Unit": "Litres",
+    "Value 000": 109.464
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Costa Rica",
+    "Qty": 37746,
+    "Unit": "Litres",
+    "Value 000": 114.497
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Cyprus",
+    "Qty": 4110,
+    "Unit": "Litres",
+    "Value 000": 22.357
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Czech Republic",
+    "Qty": 8289,
+    "Unit": "Litres",
+    "Value 000": 26.937
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Denmark",
+    "Qty": 2009786,
+    "Unit": "Litres",
+    "Value 000": 10585.091
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Dominica",
+    "Qty": 5760,
+    "Unit": "Litres",
+    "Value 000": 45.525
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Dominican Republic",
+    "Qty": 33750,
+    "Unit": "Litres",
+    "Value 000": 104.683
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "El Salvador",
+    "Qty": 4590,
+    "Unit": "Litres",
+    "Value 000": 14.629
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Estonia",
+    "Qty": 66803,
+    "Unit": "Litres",
+    "Value 000": 328.201
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Fiji",
+    "Qty": 430234,
+    "Unit": "Litres",
+    "Value 000": 1380.746
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Finland",
+    "Qty": 1150244,
+    "Unit": "Litres",
+    "Value 000": 6276.519
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "France",
+    "Qty": 144803,
+    "Unit": "Litres",
+    "Value 000": 1330.809
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "French Polynesia",
+    "Qty": 2498,
+    "Unit": "Litres",
+    "Value 000": 17.352
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Germany",
+    "Qty": 3903556,
+    "Unit": "Litres",
+    "Value 000": 17242.144
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ghana",
+    "Qty": 2680,
+    "Unit": "Litres",
+    "Value 000": 21.47
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Greece",
+    "Qty": 986,
+    "Unit": "Litres",
+    "Value 000": 14.189
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Guam",
+    "Qty": 16332,
+    "Unit": "Litres",
+    "Value 000": 100.927
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 9240478,
+    "Unit": "Litres",
+    "Value 000": 88005.83
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Iceland",
+    "Qty": 36750,
+    "Unit": "Litres",
+    "Value 000": 264.906
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "India",
+    "Qty": 442490,
+    "Unit": "Litres",
+    "Value 000": 1752.105
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Indonesia",
+    "Qty": 142672,
+    "Unit": "Litres",
+    "Value 000": 1464.557
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 1593680,
+    "Unit": "Litres",
+    "Value 000": 6569.629
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Israel",
+    "Qty": 40404,
+    "Unit": "Litres",
+    "Value 000": 323.318
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Italy",
+    "Qty": 146648,
+    "Unit": "Litres",
+    "Value 000": 594.868
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Jamaica",
+    "Qty": 57690,
+    "Unit": "Litres",
+    "Value 000": 189.139
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 3736142,
+    "Unit": "Litres",
+    "Value 000": 18895.608
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Kenya",
+    "Qty": 45546,
+    "Unit": "Litres",
+    "Value 000": 220.821
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Kiribati",
+    "Qty": 1341,
+    "Unit": "Litres",
+    "Value 000": 10.168
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 724789,
+    "Unit": "Litres",
+    "Value 000": 5602.736
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Laos",
+    "Qty": 153,
+    "Unit": "Litres",
+    "Value 000": 1.83
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Latvia",
+    "Qty": 632670,
+    "Unit": "Litres",
+    "Value 000": 2554.398
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Lithuania",
+    "Qty": 14364,
+    "Unit": "Litres",
+    "Value 000": 60.76
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Macau (SAR of China)",
+    "Qty": 30707,
+    "Unit": "Litres",
+    "Value 000": 603.962
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 2391343,
+    "Unit": "Litres",
+    "Value 000": 33868.757
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Maldives",
+    "Qty": 8864,
+    "Unit": "Litres",
+    "Value 000": 78.913
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mali",
+    "Qty": 86,
+    "Unit": "Litres",
+    "Value 000": 6.728
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Malta",
+    "Qty": 14153,
+    "Unit": "Litres",
+    "Value 000": 81.432
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Marianas Northern",
+    "Qty": 6678,
+    "Unit": "Litres",
+    "Value 000": 22.743
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Marshall Islands",
+    "Qty": 9576,
+    "Unit": "Litres",
+    "Value 000": 34.897
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mauritius",
+    "Qty": 7470,
+    "Unit": "Litres",
+    "Value 000": 43.616
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mexico",
+    "Qty": 151489,
+    "Unit": "Litres",
+    "Value 000": 572.75
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Micronesia Fed States of",
+    "Qty": 2021,
+    "Unit": "Litres",
+    "Value 000": 16.079
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Mongolia",
+    "Qty": 6075,
+    "Unit": "Litres",
+    "Value 000": 40.74
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Morocco",
+    "Qty": 135,
+    "Unit": "Litres",
+    "Value 000": 2.625
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 6591,
+    "Unit": "Litres",
+    "Value 000": 126.65
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nauru",
+    "Qty": 1632,
+    "Unit": "Litres",
+    "Value 000": 7.169
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nepal",
+    "Qty": 18864,
+    "Unit": "Litres",
+    "Value 000": 90.821
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands",
+    "Qty": 5171533,
+    "Unit": "Litres",
+    "Value 000": 19422.114
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands Antilles",
+    "Qty": 27837,
+    "Unit": "Litres",
+    "Value 000": 90.293
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "New Caledonia",
+    "Qty": 22748,
+    "Unit": "Litres",
+    "Value 000": 132.72
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 9268224,
+    "Unit": "Litres",
+    "Value 000": 40917.157
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Nigeria",
+    "Qty": 42695,
+    "Unit": "Litres",
+    "Value 000": 330.127
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Norfolk Island",
+    "Qty": 17678,
+    "Unit": "Litres",
+    "Value 000": 100.064
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 930754,
+    "Unit": "Litres",
+    "Value 000": 4484.274
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Oman",
+    "Qty": 10175,
+    "Unit": "Litres",
+    "Value 000": 49.197
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Palau",
+    "Qty": 176,
+    "Unit": "Litres",
+    "Value 000": 1.365
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Panama",
+    "Qty": 17982,
+    "Unit": "Litres",
+    "Value 000": 55.827
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 300657,
+    "Unit": "Litres",
+    "Value 000": 2650.296
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Paraguay",
+    "Qty": 8006,
+    "Unit": "Litres",
+    "Value 000": 37.874
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Peru",
+    "Qty": 9774,
+    "Unit": "Litres",
+    "Value 000": 45.295
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Philippines",
+    "Qty": 820149,
+    "Unit": "Litres",
+    "Value 000": 3832.158
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Poland",
+    "Qty": 382258,
+    "Unit": "Litres",
+    "Value 000": 1350.466
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Puerto Rico",
+    "Qty": 61916,
+    "Unit": "Litres",
+    "Value 000": 194.226
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Qatar",
+    "Qty": 65831,
+    "Unit": "Litres",
+    "Value 000": 420.801
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Russian Federation",
+    "Qty": 93998,
+    "Unit": "Litres",
+    "Value 000": 781.212
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Samoa",
+    "Qty": 16178,
+    "Unit": "Litres",
+    "Value 000": 51.085
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Saudi Arabia",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 2.02
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Serbia",
+    "Qty": 1755,
+    "Unit": "Litres",
+    "Value 000": 11.445
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Seychelles",
+    "Qty": 720,
+    "Unit": "Litres",
+    "Value 000": 4.226
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 144238,
+    "Unit": "Litres",
+    "Value 000": 1297.119
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Sierra Leone",
+    "Qty": 3020,
+    "Unit": "Litres",
+    "Value 000": 8.467
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 3815379,
+    "Unit": "Litres",
+    "Value 000": 36808.376
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Slovak Republic",
+    "Qty": 5292,
+    "Unit": "Litres",
+    "Value 000": 13.509
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Solomon Islands",
+    "Qty": 72181,
+    "Unit": "Litres",
+    "Value 000": 279.485
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "South Africa",
+    "Qty": 72269,
+    "Unit": "Litres",
+    "Value 000": 2943.844
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Spain",
+    "Qty": 60311,
+    "Unit": "Litres",
+    "Value 000": 437.446
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Sri Lanka",
+    "Qty": 101099,
+    "Unit": "Litres",
+    "Value 000": 499.652
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St Christopher and Nevis",
+    "Qty": 4590,
+    "Unit": "Litres",
+    "Value 000": 16.711
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St. Helena",
+    "Qty": 2633,
+    "Unit": "Litres",
+    "Value 000": 33.336
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "St. Lucia",
+    "Qty": 9720,
+    "Unit": "Litres",
+    "Value 000": 28.645
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Sweden",
+    "Qty": 2956728,
+    "Unit": "Litres",
+    "Value 000": 13304.153
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Switzerland",
+    "Qty": 5930749,
+    "Unit": "Litres",
+    "Value 000": 1888.734
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Syria",
+    "Qty": 1031,
+    "Unit": "Litres",
+    "Value 000": 6.274
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Taiwan",
+    "Qty": 1111184,
+    "Unit": "Litres",
+    "Value 000": 8474.657
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 1390333,
+    "Unit": "Litres",
+    "Value 000": 8988.426
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Timor-Leste",
+    "Qty": 33324,
+    "Unit": "Litres",
+    "Value 000": 93.816
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Tonga",
+    "Qty": 2778,
+    "Unit": "Litres",
+    "Value 000": 25.777
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 47642,
+    "Unit": "Litres",
+    "Value 000": 180.202
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Turkey",
+    "Qty": 28958,
+    "Unit": "Litres",
+    "Value 000": 272.922
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Tuvalu",
+    "Qty": 53625,
+    "Unit": "Litres",
+    "Value 000": 75.042
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Uganda",
+    "Qty": 21747,
+    "Unit": "Litres",
+    "Value 000": 76.289
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Ukraine",
+    "Qty": 19222,
+    "Unit": "Litres",
+    "Value 000": 183.476
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 1411061,
+    "Unit": "Litres",
+    "Value 000": 7336.723
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 19643019,
+    "Unit": "Litres",
+    "Value 000": 86566.877
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 74821207,
+    "Unit": "Litres",
+    "Value 000": 276420.36
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "United States Virgin Is",
+    "Qty": 31941,
+    "Unit": "Litres",
+    "Value 000": 91.23
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Uruguay",
+    "Qty": 14616,
+    "Unit": "Litres",
+    "Value 000": 87.81
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Vanuatu",
+    "Qty": 46923,
+    "Unit": "Litres",
+    "Value 000": 217.012
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 231931,
+    "Unit": "Litres",
+    "Value 000": 1530.455
+  },
+  {
+    "AHECC": 22042152,
+    "Label": "Red table wines from fresh grapes (excl. sparkling wines, rose and fortified wines), in containers not exceeding 2 L",
+    "Destination": "Virgin Islands, British",
+    "Qty": 8730,
+    "Unit": "Litres",
+    "Value 000": 33.265
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Austria",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.331
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Bahamas",
+    "Qty": 1350,
+    "Unit": "Litres",
+    "Value 000": 4.124
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Bangladesh",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.652
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Barbados",
+    "Qty": 1998,
+    "Unit": "Litres",
+    "Value 000": 5.92
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Belgium",
+    "Qty": 14378,
+    "Unit": "Litres",
+    "Value 000": 63.894
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Cambodia",
+    "Qty": 549,
+    "Unit": "Litres",
+    "Value 000": 5.704
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 55607,
+    "Unit": "Litres",
+    "Value 000": 262.386
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Cayman Islands",
+    "Qty": 405,
+    "Unit": "Litres",
+    "Value 000": 1.198
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 254156,
+    "Unit": "Litres",
+    "Value 000": 1507.332
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Cook Islands",
+    "Qty": 1130,
+    "Unit": "Litres",
+    "Value 000": 7.521
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Cyprus",
+    "Qty": 288,
+    "Unit": "Litres",
+    "Value 000": 0.896
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Czech Republic",
+    "Qty": 432,
+    "Unit": "Litres",
+    "Value 000": 2.448
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Denmark",
+    "Qty": 35437,
+    "Unit": "Litres",
+    "Value 000": 221.318
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Estonia",
+    "Qty": 6336,
+    "Unit": "Litres",
+    "Value 000": 30.884
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Fiji",
+    "Qty": 4073,
+    "Unit": "Litres",
+    "Value 000": 25.849
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "France",
+    "Qty": 1125,
+    "Unit": "Litres",
+    "Value 000": 9
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Germany",
+    "Qty": 17190,
+    "Unit": "Litres",
+    "Value 000": 73.273
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Guam",
+    "Qty": 45,
+    "Unit": "Litres",
+    "Value 000": 0.28
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 37442,
+    "Unit": "Litres",
+    "Value 000": 192.977
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Iceland",
+    "Qty": 900,
+    "Unit": "Litres",
+    "Value 000": 4.597
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "India",
+    "Qty": 16101,
+    "Unit": "Litres",
+    "Value 000": 48.782
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Indonesia",
+    "Qty": 1215,
+    "Unit": "Litres",
+    "Value 000": 13.415
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 23373,
+    "Unit": "Litres",
+    "Value 000": 77.947
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Jamaica",
+    "Qty": 4725,
+    "Unit": "Litres",
+    "Value 000": 14.18
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 22199,
+    "Unit": "Litres",
+    "Value 000": 100.719
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Kenya",
+    "Qty": 747,
+    "Unit": "Litres",
+    "Value 000": 3.899
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 1105,
+    "Unit": "Litres",
+    "Value 000": 5.787
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Latvia",
+    "Qty": 5711,
+    "Unit": "Litres",
+    "Value 000": 33.853
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 10239,
+    "Unit": "Litres",
+    "Value 000": 46.813
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Maldives",
+    "Qty": 450,
+    "Unit": "Litres",
+    "Value 000": 1.7
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Malta",
+    "Qty": 900,
+    "Unit": "Litres",
+    "Value 000": 4.43
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Marshall Islands",
+    "Qty": 68,
+    "Unit": "Litres",
+    "Value 000": 0.349
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Mexico",
+    "Qty": 1800,
+    "Unit": "Litres",
+    "Value 000": 10
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Micronesia Fed States of",
+    "Qty": 45,
+    "Unit": "Litres",
+    "Value 000": 0.19
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 23,
+    "Unit": "Litres",
+    "Value 000": 0.19
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Nauru",
+    "Qty": 9,
+    "Unit": "Litres",
+    "Value 000": 0.04
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands",
+    "Qty": 77252,
+    "Unit": "Litres",
+    "Value 000": 334.645
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Netherlands Antilles",
+    "Qty": 2637,
+    "Unit": "Litres",
+    "Value 000": 8.012
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "New Caledonia",
+    "Qty": 747,
+    "Unit": "Litres",
+    "Value 000": 4.968
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 175982,
+    "Unit": "Litres",
+    "Value 000": 596.096
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Nigeria",
+    "Qty": 1854,
+    "Unit": "Litres",
+    "Value 000": 7.082
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Norfolk Island",
+    "Qty": 531,
+    "Unit": "Litres",
+    "Value 000": 2.635
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 7488,
+    "Unit": "Litres",
+    "Value 000": 56.597
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Oman",
+    "Qty": 833,
+    "Unit": "Litres",
+    "Value 000": 5.98
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 2597,
+    "Unit": "Litres",
+    "Value 000": 17.088
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Paraguay",
+    "Qty": 644,
+    "Unit": "Litres",
+    "Value 000": 2.717
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Peru",
+    "Qty": 9,
+    "Unit": "Litres",
+    "Value 000": 0.15
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Philippines",
+    "Qty": 432,
+    "Unit": "Litres",
+    "Value 000": 2.987
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Poland",
+    "Qty": 30218,
+    "Unit": "Litres",
+    "Value 000": 98.752
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Qatar",
+    "Qty": 4968,
+    "Unit": "Litres",
+    "Value 000": 15.835
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 7163,
+    "Unit": "Litres",
+    "Value 000": 28.941
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 23024,
+    "Unit": "Litres",
+    "Value 000": 367.304
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Solomon Islands",
+    "Qty": 1787,
+    "Unit": "Litres",
+    "Value 000": 12.313
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Spain",
+    "Qty": 1800,
+    "Unit": "Litres",
+    "Value 000": 11.216
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Sri Lanka",
+    "Qty": 1656,
+    "Unit": "Litres",
+    "Value 000": 5.991
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "St. Helena",
+    "Qty": 18,
+    "Unit": "Litres",
+    "Value 000": 0.217
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "St. Lucia",
+    "Qty": 810,
+    "Unit": "Litres",
+    "Value 000": 2.405
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Sweden",
+    "Qty": 65520,
+    "Unit": "Litres",
+    "Value 000": 260.735
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Taiwan",
+    "Qty": 237,
+    "Unit": "Litres",
+    "Value 000": 2.298
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 10634,
+    "Unit": "Litres",
+    "Value 000": 43.225
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Timor-Leste",
+    "Qty": 176,
+    "Unit": "Litres",
+    "Value 000": 0.843
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 7695,
+    "Unit": "Litres",
+    "Value 000": 23.154
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Turkey",
+    "Qty": 3164,
+    "Unit": "Litres",
+    "Value 000": 14.261
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Ukraine",
+    "Qty": 10584,
+    "Unit": "Litres",
+    "Value 000": 47.484
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 81117,
+    "Unit": "Litres",
+    "Value 000": 294.747
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 464616,
+    "Unit": "Litres",
+    "Value 000": 1456.752
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 493543,
+    "Unit": "Litres",
+    "Value 000": 1632.554
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Vanuatu",
+    "Qty": 671,
+    "Unit": "Litres",
+    "Value 000": 3.186
+  },
+  {
+    "AHECC": 22042153,
+    "Label": "Rose table wines from fresh grapes (excl. sparkling wines), in containers not exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 1499,
+    "Unit": "Litres",
+    "Value 000": 7.795
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Cambodia",
+    "Qty": 360,
+    "Unit": "Litres",
+    "Value 000": 1.92
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 126,
+    "Unit": "Litres",
+    "Value 000": 0.664
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 76813,
+    "Unit": "Litres",
+    "Value 000": 709.929
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Cook Islands",
+    "Qty": 1319,
+    "Unit": "Litres",
+    "Value 000": 15.238
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Ghana",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 1.287
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 19051,
+    "Unit": "Litres",
+    "Value 000": 361.992
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 54,
+    "Unit": "Litres",
+    "Value 000": 0.473
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Italy",
+    "Qty": 96,
+    "Unit": "Litres",
+    "Value 000": 10.977
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 1170,
+    "Unit": "Litres",
+    "Value 000": 18.72
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Macau (SAR of China)",
+    "Qty": 571,
+    "Unit": "Litres",
+    "Value 000": 50
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 855,
+    "Unit": "Litres",
+    "Value 000": 4.56
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Netherlands",
+    "Qty": 27754,
+    "Unit": "Litres",
+    "Value 000": 253.548
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 518,
+    "Unit": "Litres",
+    "Value 000": 7.24
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 199,
+    "Unit": "Litres",
+    "Value 000": 1.725
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 21,
+    "Unit": "Litres",
+    "Value 000": 15.363
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Philippines",
+    "Qty": 450,
+    "Unit": "Litres",
+    "Value 000": 2
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 90382,
+    "Unit": "Litres",
+    "Value 000": 691.092
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 15071,
+    "Unit": "Litres",
+    "Value 000": 136.614
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Spain",
+    "Qty": 76,
+    "Unit": "Litres",
+    "Value 000": 0.443
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 4830,
+    "Unit": "Litres",
+    "Value 000": 25.999
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Ukraine",
+    "Qty": 504,
+    "Unit": "Litres",
+    "Value 000": 6.4
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 2,
+    "Unit": "Litres",
+    "Value 000": 5.48
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 881,
+    "Unit": "Litres",
+    "Value 000": 53.997
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 28127,
+    "Unit": "Litres",
+    "Value 000": 169.17
+  },
+  {
+    "AHECC": 22042154,
+    "Label": "Wine from fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers not exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 1103,
+    "Unit": "Litres",
+    "Value 000": 6.447
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Canada",
+    "Qty": 168135,
+    "Unit": "Litres",
+    "Value 000": 117.42
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 27657,
+    "Unit": "Litres",
+    "Value 000": 65.688
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Denmark",
+    "Qty": 201,
+    "Unit": "Litres",
+    "Value 000": 7.1
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Fiji",
+    "Qty": 1118,
+    "Unit": "Litres",
+    "Value 000": 5.022
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 26573,
+    "Unit": "Litres",
+    "Value 000": 170.124
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Ireland",
+    "Qty": 27,
+    "Unit": "Litres",
+    "Value 000": 0.184
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 1050,
+    "Unit": "Litres",
+    "Value 000": 12.128
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 2025,
+    "Unit": "Litres",
+    "Value 000": 9.81
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 51596,
+    "Unit": "Litres",
+    "Value 000": 87.376
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Norfolk Island",
+    "Qty": 41,
+    "Unit": "Litres",
+    "Value 000": 5.415
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 9,
+    "Unit": "Litres",
+    "Value 000": 0.07
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Samoa",
+    "Qty": 22,
+    "Unit": "Litres",
+    "Value 000": 0.175
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 95,
+    "Unit": "Litres",
+    "Value 000": 13.32
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 1494,
+    "Unit": "Litres",
+    "Value 000": 11.812
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Thailand",
+    "Qty": 5025,
+    "Unit": "Litres",
+    "Value 000": 11.139
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 211129,
+    "Unit": "Litres",
+    "Value 000": 316.127
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 129811,
+    "Unit": "Litres",
+    "Value 000": 207.1
+  },
+  {
+    "AHECC": 22042915,
+    "Label": "Fortified wines from fresh grapes (incl. sherry, port and muscat), in containers exceeding 2 L",
+    "Destination": "Viet Nam",
+    "Qty": 48,
+    "Unit": "Litres",
+    "Value 000": 0.141
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Bahrain",
+    "Qty": 960,
+    "Unit": "Litres",
+    "Value 000": 1.412
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Bangladesh",
+    "Qty": 272,
+    "Unit": "Litres",
+    "Value 000": 0.578
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Cambodia",
+    "Qty": 11520,
+    "Unit": "Litres",
+    "Value 000": 23.04
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Canada",
+    "Qty": 111296,
+    "Unit": "Litres",
+    "Value 000": 349.69
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 28177,
+    "Unit": "Litres",
+    "Value 000": 416.135
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Christmas Island",
+    "Qty": 23,
+    "Unit": "Litres",
+    "Value 000": 0.235
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Cook Islands",
+    "Qty": 304,
+    "Unit": "Litres",
+    "Value 000": 0.513
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Fiji",
+    "Qty": 4275,
+    "Unit": "Litres",
+    "Value 000": 10.318
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Germany",
+    "Qty": 95,
+    "Unit": "Litres",
+    "Value 000": 2.349
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 30101,
+    "Unit": "Litres",
+    "Value 000": 66.183
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "India",
+    "Qty": 22720,
+    "Unit": "Litres",
+    "Value 000": 27.356
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Jamaica",
+    "Qty": 7800,
+    "Unit": "Litres",
+    "Value 000": 27.649
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Japan",
+    "Qty": 137262,
+    "Unit": "Litres",
+    "Value 000": 317.234
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Kiribati",
+    "Qty": 32,
+    "Unit": "Litres",
+    "Value 000": 0.074
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 22656,
+    "Unit": "Litres",
+    "Value 000": 36.755
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Malaysia",
+    "Qty": 14816,
+    "Unit": "Litres",
+    "Value 000": 23.15
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Myanmar, Republic of",
+    "Qty": 12,
+    "Unit": "Litres",
+    "Value 000": 0.042
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Nauru",
+    "Qty": 256,
+    "Unit": "Litres",
+    "Value 000": 0.456
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Nepal",
+    "Qty": 36560,
+    "Unit": "Litres",
+    "Value 000": 82.26
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "New Caledonia",
+    "Qty": 97020,
+    "Unit": "Litres",
+    "Value 000": 167.49
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "New Zealand",
+    "Qty": 60840,
+    "Unit": "Litres",
+    "Value 000": 104.246
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Norfolk Island",
+    "Qty": 10608,
+    "Unit": "Litres",
+    "Value 000": 18.486
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Oman",
+    "Qty": 28832,
+    "Unit": "Litres",
+    "Value 000": 39.644
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 8122,
+    "Unit": "Litres",
+    "Value 000": 17.097
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Qatar",
+    "Qty": 26800,
+    "Unit": "Litres",
+    "Value 000": 43.55
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Samoa",
+    "Qty": 1040,
+    "Unit": "Litres",
+    "Value 000": 1.912
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 1037,
+    "Unit": "Litres",
+    "Value 000": 3.805
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Singapore",
+    "Qty": 17088,
+    "Unit": "Litres",
+    "Value 000": 26.51
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Solomon Islands",
+    "Qty": 28,
+    "Unit": "Litres",
+    "Value 000": 0.072
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Taiwan",
+    "Qty": 27305,
+    "Unit": "Litres",
+    "Value 000": 71.021
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Thailand",
+    "Qty": 90818,
+    "Unit": "Litres",
+    "Value 000": 152.866
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 10320,
+    "Unit": "Litres",
+    "Value 000": 26.777
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 210320,
+    "Unit": "Litres",
+    "Value 000": 324.573
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "United Kingdom",
+    "Qty": 264945,
+    "Unit": "Litres",
+    "Value 000": 319.67
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Vanuatu",
+    "Qty": 9838,
+    "Unit": "Litres",
+    "Value 000": 34.305
+  },
+  {
+    "AHECC": 22042982,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Viet Nam",
+    "Qty": 15592,
+    "Unit": "Litres",
+    "Value 000": 22.93
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Austria",
+    "Qty": 18,
+    "Unit": "Litres",
+    "Value 000": 0.397
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Bahrain",
+    "Qty": 32000,
+    "Unit": "Litres",
+    "Value 000": 44.8
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Belgium",
+    "Qty": 3562743,
+    "Unit": "Litres",
+    "Value 000": 3057.122
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Canada",
+    "Qty": 13467925,
+    "Unit": "Litres",
+    "Value 000": 10156.263
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 708656,
+    "Unit": "Litres",
+    "Value 000": 560.238
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 48,
+    "Unit": "Litres",
+    "Value 000": 0.181
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Czech Republic",
+    "Qty": 48000,
+    "Unit": "Litres",
+    "Value 000": 31.694
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Denmark",
+    "Qty": 3676029,
+    "Unit": "Litres",
+    "Value 000": 3021.23
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Finland",
+    "Qty": 1394082,
+    "Unit": "Litres",
+    "Value 000": 1254.869
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "France",
+    "Qty": 408000,
+    "Unit": "Litres",
+    "Value 000": 381.84
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Germany",
+    "Qty": 2142526,
+    "Unit": "Litres",
+    "Value 000": 1828.035
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 530,
+    "Unit": "Litres",
+    "Value 000": 1.356
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Indonesia",
+    "Qty": 260,
+    "Unit": "Litres",
+    "Value 000": 0.614
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Ireland",
+    "Qty": 52000,
+    "Unit": "Litres",
+    "Value 000": 62.4
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Italy",
+    "Qty": 2404672,
+    "Unit": "Litres",
+    "Value 000": 2803.053
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Japan",
+    "Qty": 397718,
+    "Unit": "Litres",
+    "Value 000": 689.078
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Nauru",
+    "Qty": 80,
+    "Unit": "Litres",
+    "Value 000": 0.144
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Netherlands",
+    "Qty": 19643717,
+    "Unit": "Litres",
+    "Value 000": 16176.789
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "New Zealand",
+    "Qty": 11810562,
+    "Unit": "Litres",
+    "Value 000": 8403.856
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Oman",
+    "Qty": 1400,
+    "Unit": "Litres",
+    "Value 000": 1.89
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Qatar",
+    "Qty": 52060,
+    "Unit": "Litres",
+    "Value 000": 83.296
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Russian Federation",
+    "Qty": 6864000,
+    "Unit": "Litres",
+    "Value 000": 2886.652
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 9540,
+    "Unit": "Litres",
+    "Value 000": 20.988
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Singapore",
+    "Qty": 3776,
+    "Unit": "Litres",
+    "Value 000": 6.7
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Spain",
+    "Qty": 72000,
+    "Unit": "Litres",
+    "Value 000": 93.118
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "St. Helena",
+    "Qty": 330,
+    "Unit": "Litres",
+    "Value 000": 0.726
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Sweden",
+    "Qty": 24000,
+    "Unit": "Litres",
+    "Value 000": 22.8
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Switzerland",
+    "Qty": 24000,
+    "Unit": "Litres",
+    "Value 000": 31.68
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Thailand",
+    "Qty": 210575,
+    "Unit": "Litres",
+    "Value 000": 272.284
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 42152,
+    "Unit": "Litres",
+    "Value 000": 81.144
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "United Kingdom",
+    "Qty": 88172097,
+    "Unit": "Litres",
+    "Value 000": 91829.858
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "United States of America",
+    "Qty": 39882370,
+    "Unit": "Litres",
+    "Value 000": 34566.48
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Vanuatu",
+    "Qty": 840,
+    "Unit": "Litres",
+    "Value 000": 1.554
+  },
+  {
+    "AHECC": 22042983,
+    "Label": "White table wines from fresh grapes (excl. sparkling wines), in containers exceeding 4.6 L",
+    "Destination": "Viet Nam",
+    "Qty": 78250,
+    "Unit": "Litres",
+    "Value 000": 76.255
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Bangladesh",
+    "Qty": 976,
+    "Unit": "Litres",
+    "Value 000": 2.379
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Belgium",
+    "Qty": 3,
+    "Unit": "Litres",
+    "Value 000": 0.05
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Cambodia",
+    "Qty": 10880,
+    "Unit": "Litres",
+    "Value 000": 21.81
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Canada",
+    "Qty": 126855,
+    "Unit": "Litres",
+    "Value 000": 446.275
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 288386,
+    "Unit": "Litres",
+    "Value 000": 569.548
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Christmas Island",
+    "Qty": 64,
+    "Unit": "Litres",
+    "Value 000": 0.241
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Cocos (Keeling) Island",
+    "Qty": 48,
+    "Unit": "Litres",
+    "Value 000": 0.181
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Cook Islands",
+    "Qty": 808,
+    "Unit": "Litres",
+    "Value 000": 1.684
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Fiji",
+    "Qty": 6940,
+    "Unit": "Litres",
+    "Value 000": 15.332
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Germany",
+    "Qty": 3150,
+    "Unit": "Litres",
+    "Value 000": 40.25
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 228109,
+    "Unit": "Litres",
+    "Value 000": 701.791
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "India",
+    "Qty": 37629,
+    "Unit": "Litres",
+    "Value 000": 61.063
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Ireland",
+    "Qty": 27,
+    "Unit": "Litres",
+    "Value 000": 1.007
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Jamaica",
+    "Qty": 13800,
+    "Unit": "Litres",
+    "Value 000": 41.472
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Japan",
+    "Qty": 810806,
+    "Unit": "Litres",
+    "Value 000": 1821.899
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Kiribati",
+    "Qty": 13536,
+    "Unit": "Litres",
+    "Value 000": 22.007
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 33776,
+    "Unit": "Litres",
+    "Value 000": 57.323
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Malaysia",
+    "Qty": 160332,
+    "Unit": "Litres",
+    "Value 000": 267.438
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Nauru",
+    "Qty": 288,
+    "Unit": "Litres",
+    "Value 000": 0.516
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Nepal",
+    "Qty": 54400,
+    "Unit": "Litres",
+    "Value 000": 132.487
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Netherlands",
+    "Qty": 264040,
+    "Unit": "Litres",
+    "Value 000": 283.073
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "New Caledonia",
+    "Qty": 48896,
+    "Unit": "Litres",
+    "Value 000": 91.798
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "New Zealand",
+    "Qty": 155850,
+    "Unit": "Litres",
+    "Value 000": 294.154
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Nigeria",
+    "Qty": 10350,
+    "Unit": "Litres",
+    "Value 000": 60.206
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Norfolk Island",
+    "Qty": 4624,
+    "Unit": "Litres",
+    "Value 000": 9.778
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Oman",
+    "Qty": 43920,
+    "Unit": "Litres",
+    "Value 000": 76.615
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 17778,
+    "Unit": "Litres",
+    "Value 000": 37.313
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Paraguay",
+    "Qty": 240,
+    "Unit": "Litres",
+    "Value 000": 0.7
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Qatar",
+    "Qty": 35120,
+    "Unit": "Litres",
+    "Value 000": 65.85
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Samoa",
+    "Qty": 1136,
+    "Unit": "Litres",
+    "Value 000": 2.261
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 32464,
+    "Unit": "Litres",
+    "Value 000": 95.235
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Singapore",
+    "Qty": 144002,
+    "Unit": "Litres",
+    "Value 000": 236.857
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Solomon Islands",
+    "Qty": 16,
+    "Unit": "Litres",
+    "Value 000": 0.03
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Switzerland",
+    "Qty": 36,
+    "Unit": "Litres",
+    "Value 000": 11.52
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Taiwan",
+    "Qty": 9760,
+    "Unit": "Litres",
+    "Value 000": 18.3
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Thailand",
+    "Qty": 219871,
+    "Unit": "Litres",
+    "Value 000": 340.764
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Timor-Leste",
+    "Qty": 2200,
+    "Unit": "Litres",
+    "Value 000": 9.9
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Trinidad and Tobago",
+    "Qty": 45156,
+    "Unit": "Litres",
+    "Value 000": 117.396
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Tuvalu",
+    "Qty": 21840,
+    "Unit": "Litres",
+    "Value 000": 34.71
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 282066,
+    "Unit": "Litres",
+    "Value 000": 470.125
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "United Kingdom",
+    "Qty": 360171,
+    "Unit": "Litres",
+    "Value 000": 435.75
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "United States of America",
+    "Qty": 177,
+    "Unit": "Litres",
+    "Value 000": 22.873
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Vanuatu",
+    "Qty": 13809,
+    "Unit": "Litres",
+    "Value 000": 39.477
+  },
+  {
+    "AHECC": 22042991,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding 2 L but not exceeding 4.6 L",
+    "Destination": "Viet Nam",
+    "Qty": 28344,
+    "Unit": "Litres",
+    "Value 000": 47.854
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Austria",
+    "Qty": 180,
+    "Unit": "Litres",
+    "Value 000": 9.618
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Bahrain",
+    "Qty": 65000,
+    "Unit": "Litres",
+    "Value 000": 91
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Belgium",
+    "Qty": 3593598,
+    "Unit": "Litres",
+    "Value 000": 3986.91
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Canada",
+    "Qty": 11605268,
+    "Unit": "Litres",
+    "Value 000": 10948.869
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 2222897,
+    "Unit": "Litres",
+    "Value 000": 8147.516
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Denmark",
+    "Qty": 6983982,
+    "Unit": "Litres",
+    "Value 000": 7360.729
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Finland",
+    "Qty": 1271524,
+    "Unit": "Litres",
+    "Value 000": 1504.499
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "France",
+    "Qty": 699559,
+    "Unit": "Litres",
+    "Value 000": 949.734
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Germany",
+    "Qty": 2229931,
+    "Unit": "Litres",
+    "Value 000": 2259.831
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 78260,
+    "Unit": "Litres",
+    "Value 000": 1449.711
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Indonesia",
+    "Qty": 53787,
+    "Unit": "Litres",
+    "Value 000": 470.427
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Ireland",
+    "Qty": 52000,
+    "Unit": "Litres",
+    "Value 000": 62.4
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Italy",
+    "Qty": 5944003,
+    "Unit": "Litres",
+    "Value 000": 6728.872
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Japan",
+    "Qty": 747681,
+    "Unit": "Litres",
+    "Value 000": 1292.644
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Korea, Republic of",
+    "Qty": 53833,
+    "Unit": "Litres",
+    "Value 000": 202.529
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Malaysia",
+    "Qty": 624,
+    "Unit": "Litres",
+    "Value 000": 3.56
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Nauru",
+    "Qty": 80,
+    "Unit": "Litres",
+    "Value 000": 0.144
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Netherlands",
+    "Qty": 13631517,
+    "Unit": "Litres",
+    "Value 000": 14707.05
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "New Zealand",
+    "Qty": 7074259,
+    "Unit": "Litres",
+    "Value 000": 8332.969
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Norway",
+    "Qty": 1127578,
+    "Unit": "Litres",
+    "Value 000": 1294.312
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Oman",
+    "Qty": 4420,
+    "Unit": "Litres",
+    "Value 000": 7.452
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Papua New Guinea",
+    "Qty": 50,
+    "Unit": "Litres",
+    "Value 000": 0.207
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Poland",
+    "Qty": 264000,
+    "Unit": "Litres",
+    "Value 000": 408.96
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Qatar",
+    "Qty": 65800,
+    "Unit": "Litres",
+    "Value 000": 116.86
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 23852,
+    "Unit": "Litres",
+    "Value 000": 52.861
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Singapore",
+    "Qty": 9330,
+    "Unit": "Litres",
+    "Value 000": 40.126
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Solomon Islands",
+    "Qty": 10,
+    "Unit": "Litres",
+    "Value 000": 0.041
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Spain",
+    "Qty": 72000,
+    "Unit": "Litres",
+    "Value 000": 116.397
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "St. Helena",
+    "Qty": 840,
+    "Unit": "Litres",
+    "Value 000": 1.848
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Sweden",
+    "Qty": 1047700,
+    "Unit": "Litres",
+    "Value 000": 1131.315
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Switzerland",
+    "Qty": 71968,
+    "Unit": "Litres",
+    "Value 000": 158.348
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Taiwan",
+    "Qty": 60580,
+    "Unit": "Litres",
+    "Value 000": 169.624
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Thailand",
+    "Qty": 498495,
+    "Unit": "Litres",
+    "Value 000": 691.509
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Timor-Leste",
+    "Qty": 90,
+    "Unit": "Litres",
+    "Value 000": 0.222
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 35000,
+    "Unit": "Litres",
+    "Value 000": 64.75
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "United Kingdom",
+    "Qty": 116901199,
+    "Unit": "Litres",
+    "Value 000": 138468.743
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "United States of America",
+    "Qty": 13296960,
+    "Unit": "Litres",
+    "Value 000": 17027.762
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Vanuatu",
+    "Qty": 1400,
+    "Unit": "Litres",
+    "Value 000": 2.59
+  },
+  {
+    "AHECC": 22042992,
+    "Label": "Red table wines from fresh grapes (incl. rose) (excl. sparkling wine), in containers exceeding exceeding 4.6 L",
+    "Destination": "Viet Nam",
+    "Qty": 398471,
+    "Unit": "Litres",
+    "Value 000": 395.824
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "China (excluding SARs and Taiwan)",
+    "Qty": 24308,
+    "Unit": "Litres",
+    "Value 000": 221.486
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Finland",
+    "Qty": 900,
+    "Unit": "Litres",
+    "Value 000": 7.469
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Hong Kong (SAR of China)",
+    "Qty": 2612,
+    "Unit": "Litres",
+    "Value 000": 106.063
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Japan",
+    "Qty": 2925,
+    "Unit": "Litres",
+    "Value 000": 15.555
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Malaysia",
+    "Qty": 399,
+    "Unit": "Litres",
+    "Value 000": 11.95
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "New Zealand",
+    "Qty": 1186,
+    "Unit": "Litres",
+    "Value 000": 24.322
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Norway",
+    "Qty": 550,
+    "Unit": "Litres",
+    "Value 000": 4.375
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Ship & Aircraft Stores",
+    "Qty": 5055,
+    "Unit": "Litres",
+    "Value 000": 23.586
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "Singapore",
+    "Qty": 2004,
+    "Unit": "Litres",
+    "Value 000": 24.188
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "United Arab Emirates",
+    "Qty": 1152,
+    "Unit": "Litres",
+    "Value 000": 5.294
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "United Kingdom",
+    "Qty": 739,
+    "Unit": "Litres",
+    "Value 000": 17.737
+  },
+  {
+    "AHECC": 22042999,
+    "Label": "Wine of fresh grapes (excl. sparkling wines, fortified wines and table wines) and grape must (excl. grape must of HS 2009) with fermentation prevented or arrested by the addition of alcohol, in containers exceeding 2 L",
+    "Destination": "United States of America",
+    "Qty": 116,
+    "Unit": "Litres",
+    "Value 000": 16.955
+  }
+]

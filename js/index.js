@@ -16,7 +16,8 @@ var data = {
   bbox: {},
   vp: null,
   vp2: null,
-  map: null
+  map: null,
+  exports:null
 };
 
 var Styles = {
@@ -105,6 +106,31 @@ Router.prototype.handleTopWedge = function(url) {
       data.vp2 = new d3pie('region-pie', vdata);
     }
   }
+
+  if (url === '#economy') {
+    if (data.exports == null) {
+      var vdata = makeVarietyPieData();
+      var list = [];
+      var x = 0;
+      for (var dest in data.exportsDestination) {
+        //if (region === 'Total') continue;
+        var colour = colours[x++]; if (x > 7) { x = 0; }
+        var value = Math.floor(data.exportsDestination[dest].value / 1000);
+        //console.log(data.exportsDestination[dest]);
+        list.push({label:dest, value:value, color:colour});
+      }
+      var sorted = _.sortBy(list, 'value');
+      vdata.data.content = [];
+      var max = sorted.length;
+      for (var n=0; n < 10; n++) {
+        vdata.data.content.push(sorted[max-n-1]);
+      }
+      vdata.header.title.text = "South Australian Exports";
+      vdata.header.subtitle.text = "Summary of the top 10 export destinations, by $Million value";
+      vdata.labels.outer.format = "label-value1";
+      data.exports = new d3pie('exports-pie', vdata);
+    }
+  }
 };
 
 var router = new Router();
@@ -141,6 +167,34 @@ function onRegions(x)
       data.regionCount2 ++;
     }
   }
+}
+
+function onExports(x)
+{
+  // Summaries by: (1) type of wine, (2) value to top 10 countries
+  // We should use a underscore reduce really
+  var types = [];
+  var dest = {};
+  for (var code in x) {
+    var record = x[code];
+    // record.Label
+    // record.Destination
+    // record.Value 000
+    // record.Qty
+    // console.log(JSON.stringify(record));
+    if (!_.has(types, record.Label)) { types.push(record.Label); }
+    if (!_.has(dest, record.Destination)) { 
+      console.log('Add: ' + record.Destination);
+      dest[record.Destination] = { qty:0, value:0, typeCount:0 };
+    }
+    dest[record.Destination].qty += record.Qty;
+    dest[record.Destination].typeCount ++;
+    dest[record.Destination].value += record['Value 000'];
+    // console.log(JSON.stringify(record.Destination));
+  }
+  //console.log(JSON.stringify(types));
+  //console.log(JSON.stringify(dest));
+  data.exportsDestination = dest;
 }
 
 function onStateClick(e) {
@@ -192,6 +246,7 @@ function onStates(json) {
 var p0 = new Promise(function(resolve, reject) { d3.json('assets/AUS.geo.json', function(json) { onCountry(json); resolve(); }); });
 var p1 = new Promise(function(resolve, reject) { d3.json('assets/states.geojson', function(json) { onStates(json); resolve(); }); });
 var p3 = new Promise(function(resolve, reject) { console.log(5); d3.json('assets/regions.json', function(json) { onRegions(json); resolve(); }); });
+var p4 = new Promise(function(resolve, reject) { console.log(5); d3.json('assets/exports.json', function(json) { onExports(json); resolve(); }); });
 var pz = new Promise(function(resolve, reject) { console.log(5); d3.json('assets/au-region-variety.json', function(json) { onRegionVarieties(json); resolve(); }); });
 $.ajax('assets/regions.kml').done(function(xml) {
   console.log(8);
