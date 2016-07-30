@@ -70,10 +70,18 @@ Licensed: Creative Commons
 Artefacts:
 
 Data on hectares per grape variety, world wide
-http://www.adelaide.edu.au/wine-econ/databases/winegrapes-detailed-regional-2000-and-2010-rev0714.xlsx
+http://www.adelaide.edu.au/wine-econ/databases/winegrapes-national-1960-to-2010-rev0714.xlsx
 
 Data on hectares per grape variety, wine regions, 2000 and 2010
 http://www.adelaide.edu.au/wine-econ/databases/winegrapes-detailed-regional-2000-and-2010-rev0714.xlsx
+
+We have copied data from the spreadsheet into a subset to make the app.
+
+Using http://www.csvjson.com/csv2json generated a JSON file of regions vs. varieties, this is loaded, filtered and processed with the web page.
+In a real application this processing would happen on a server abd be optimised for performance.
+We would like to have the information abstracted behind an API.
+
+The data is transposed into JSON, so that each region has the hectares per variety and the toal available.
 
 
 ### Vineyards
