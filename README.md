@@ -67,7 +67,7 @@ http://data.sa.gov.au/data/dataset/regional-national-and-global-winegrape-bearin
 http://www.adelaide.edu.au/wine-econ/databases/winegrapes/
 Licensed: Creative Commons
 
-Artefacts:
+Artefacts from this dataset used:
 
 Data on hectares per grape variety, world wide
 http://www.adelaide.edu.au/wine-econ/databases/winegrapes-national-1960-to-2010-rev0714.xlsx
@@ -75,18 +75,25 @@ http://www.adelaide.edu.au/wine-econ/databases/winegrapes-national-1960-to-2010-
 Data on hectares per grape variety, wine regions, 2000 and 2010
 http://www.adelaide.edu.au/wine-econ/databases/winegrapes-detailed-regional-2000-and-2010-rev0714.xlsx
 
-We have copied data from the spreadsheet into a subset to make the app.
+We have copied data from the spreadsheets into a subset to make the app.
+We created a CSV and filtered out all grape varieties not grown in Australia.
 
 Using http://www.csvjson.com/csv2json generated a JSON file of regions vs. varieties, this is loaded, filtered and processed with the web page.
-In a real application this processing would happen on a server abd be optimised for performance.
+In our desired application this processing would happen on a server and be optimised for performance.
 We would like to have the information abstracted behind an API.
 
-The data is transposed into JSON, so that each region has the hectares per variety and the toal available.
+The data was converted into a JSON file listing hectares per wine region (and per grape variety)
+The data is also transposed into a second JSON file, to obtain hectares per variety (and per region)
 
+A second table was created, showing summary hectares per region.
 
 ### Vineyards
 
 http://data.sa.gov.au/data/dataset/vineyards
+http://data.sa.gov.au/data/dataset/vineyards/resource/32ae82e8-74d0-4afe-8924-79068cde7291
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1329.0.55.0022011-12?OpenDocument
+Vineyards: Production, area and number of businesses by Australia, State and GI Zone:
+http://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&1329055002do002_201112.xls&1329.0.55.002&Data%20Cubes&422FC8129E2E3747CA257A980013DD18&0&2011-12&16.10.2012&Latest
 
 
 ### Other:

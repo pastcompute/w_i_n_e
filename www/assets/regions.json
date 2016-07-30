@@ -1,0 +1,387 @@
+{
+  "Adelaide Hills": {
+    "Hectares": 1811,
+    "National Share %": 1.39,
+    "": "Done"
+  },
+  "Alpine/Bchworth": {
+    "Hectares": 803,
+    "National Share %": 0.61,
+    "": ""
+  },
+  "Aus. Capital Terr.": {
+    "Hectares": 15,
+    "National Share %": 0.01,
+    "": "Done"
+  },
+  "Barossa Other": {
+    "Hectares": 249,
+    "National Share %": 0.19,
+    "": "Done"
+  },
+  "Barossa Valley": {
+    "Hectares": 7673,
+    "National Share %": 5.88,
+    "": "Done"
+  },
+  "Beechworth": {
+    "Hectares": 35,
+    "National Share %": 0.03,
+    "": ""
+  },
+  "Bendigo": {
+    "Hectares": 607,
+    "National Share %": 0.46,
+    "": ""
+  },
+  "Big Rivers Other": {
+    "Hectares": 1015,
+    "National Share %": 0.78,
+    "": ""
+  },
+  "Blackwood Valley": {
+    "Hectares": 501,
+    "National Share %": 0.38,
+    "": ""
+  },
+  "Canberra District": {
+    "Hectares": 110,
+    "National Share %": 0.08,
+    "": ""
+  },
+  "C. Ranges Other": {
+    "Hectares": 302,
+    "National Share %": 0.23,
+    "": ""
+  },
+  "Central Vic Other": {
+    "Hectares": 876,
+    "National Share %": 0.67,
+    "": ""
+  },
+  "Central WA": {
+    "Hectares": 70,
+    "National Share %": 0.05,
+    "": ""
+  },
+  "Clare Valley": {
+    "Hectares": 3617,
+    "National Share %": 2.77,
+    "": "Done"
+  },
+  "Cowra": {
+    "Hectares": 1533,
+    "National Share %": 1.17,
+    "": ""
+  },
+  "Currency Creek": {
+    "Hectares": 940,
+    "National Share %": 0.72,
+    "": ""
+  },
+  "Eastern Plain etc.": {
+    "Hectares": 39,
+    "National Share %": 0.03,
+    "": ""
+  },
+  "Eden Valley": {
+    "Hectares": 1224,
+    "National Share %": 0.94,
+    "": ""
+  },
+  "Far North Other": {
+    "Hectares": 107,
+    "National Share %": 0.08,
+    "": ""
+  },
+  "Fleurieu Other": {
+    "Hectares": 510,
+    "National Share %": 0.39,
+    "": "Done"
+  },
+  "Geelong": {
+    "Hectares": 322,
+    "National Share %": 0.25,
+    "": ""
+  },
+  "Geographe": {
+    "Hectares": 480,
+    "National Share %": 0.37,
+    "": ""
+  },
+  "Gippsland": {
+    "Hectares": 174,
+    "National Share %": 0.13,
+    "": ""
+  },
+  "Goulburn Valley": {
+    "Hectares": 1090,
+    "National Share %": 0.83,
+    "": ""
+  },
+  "Grampians": {
+    "Hectares": 424,
+    "National Share %": 0.32,
+    "": ""
+  },
+  "Granite Belt": {
+    "Hectares": 433,
+    "National Share %": 0.33,
+    "": ""
+  },
+  "Great Southern": {
+    "Hectares": 2391,
+    "National Share %": 1.83,
+    "": ""
+  },
+  "Greater Perth Other": {
+    "Hectares": 395,
+    "National Share %": 0.3,
+    "": ""
+  },
+  "Hastings River": {
+    "Hectares": 118,
+    "National Share %": 0.09,
+    "": ""
+  },
+  "Henty": {
+    "Hectares": 183,
+    "National Share %": 0.14,
+    "": ""
+  },
+  "Hilltops": {
+    "Hectares": 383,
+    "National Share %": 0.29,
+    "": ""
+  },
+  "Hunter": {
+    "Hectares": 3669,
+    "National Share %": 2.81,
+    "": ""
+  },
+  "Hunter Valley Other": {
+    "Hectares": 278,
+    "National Share %": 0.21,
+    "": ""
+  },
+  "Kangaroo Island": {
+    "Hectares": 34,
+    "National Share %": 0.03,
+    "": "Done"
+  },
+  "Langhorne Creek": {
+    "Hectares": 3737,
+    "National Share %": 2.86,
+    "": ""
+  },
+  "Limestone C. Other": {
+    "Hectares": 7529,
+    "National Share %": 5.76,
+    "": "Done"
+  },
+  "Lower Murray Other": {
+    "Hectares": 145,
+    "National Share %": 0.11,
+    "": ""
+  },
+  "Margaret River": {
+    "Hectares": 3401,
+    "National Share %": 2.6,
+    "": ""
+  },
+  "Mclaren Vale": {
+    "Hectares": 4695,
+    "National Share %": 3.59,
+    "": "Done"
+  },
+  "Mornington Peninsula": {
+    "Hectares": 402,
+    "National Share %": 0.31,
+    "": ""
+  },
+  "Mount Benson": {
+    "Hectares": 299,
+    "National Share %": 0.23,
+    "": ""
+  },
+  "Mt Lofty Rgs Other": {
+    "Hectares": 488,
+    "National Share %": 0.37,
+    "": ""
+  },
+  "Mudgee": {
+    "Hectares": 2152,
+    "National Share %": 1.65,
+    "": ""
+  },
+  "Murray Darling NSW": {
+    "Hectares": 5576,
+    "National Share %": 4.27,
+    "": ""
+  },
+  "Murray Darling Vic": {
+    "Hectares": 15663,
+    "National Share %": 11.99,
+    "": ""
+  },
+  "N. E. Vic Other": {
+    "Hectares": 1254,
+    "National Share %": 0.96,
+    "": ""
+  },
+  "N. W. Vic Other": {
+    "Hectares": 3177,
+    "National Share %": 2.43,
+    "": ""
+  },
+  "Nthn Rivers Other": {
+    "Hectares": 12,
+    "National Share %": 0.01,
+    "": ""
+  },
+  "Nthn Slopes Other": {
+    "Hectares": 174,
+    "National Share %": 0.13,
+    "": ""
+  },
+  "Nthn Territory": {
+    "Hectares": 302,
+    "National Share %": 0.23,
+    "": ""
+  },
+  "Orange": {
+    "Hectares": 995,
+    "National Share %": 0.76,
+    "": ""
+  },
+  "Padthaway": {
+    "Hectares": 3226,
+    "National Share %": 2.47,
+    "": ""
+  },
+  "Perricoota": {
+    "Hectares": 153,
+    "National Share %": 0.12,
+    "": ""
+  },
+  "Perth Hills": {
+    "Hectares": 316,
+    "National Share %": 0.24,
+    "": ""
+  },
+  "Pt Phillip Other": {
+    "Hectares": 129,
+    "National Share %": 0.1,
+    "": ""
+  },
+  "Pyrenees": {
+    "Hectares": 428,
+    "National Share %": 0.33,
+    "": ""
+  },
+  "Queensland Other": {
+    "Hectares": 1207,
+    "National Share %": 0.92,
+    "": ""
+  },
+  "Riverina": {
+    "Hectares": 12398,
+    "National Share %": 9.49,
+    "": ""
+  },
+  "Riverland": {
+    "Hectares": 18336,
+    "National Share %": 14.04,
+    "": "Done"
+  },
+  "Rutherglen": {
+    "Hectares": 793,
+    "National Share %": 0.61,
+    "": ""
+  },
+  "South Burnett": {
+    "Hectares": 344,
+    "National Share %": 0.26,
+    "": ""
+  },
+  "South Coast Other": {
+    "Hectares": 112,
+    "National Share %": 0.09,
+    "": ""
+  },
+  "SW Australia Other": {
+    "Hectares": 802,
+    "National Share %": 0.61,
+    "": ""
+  },
+  "Southern Fleurieu": {
+    "Hectares": 328,
+    "National Share %": 0.25,
+    "": "Done"
+  },
+  "Sthn NSW Other": {
+    "Hectares": 914,
+    "National Share %": 0.7,
+    "": ""
+  },
+  "Sunbury": {
+    "Hectares": 79,
+    "National Share %": 0.06,
+    "": ""
+  },
+  "Swan District": {
+    "Hectares": 812,
+    "National Share %": 0.62,
+    "": ""
+  },
+  "Swan Hill NSW": {
+    "Hectares": 544,
+    "National Share %": 0.42,
+    "": ""
+  },
+  "Swan Hill Vic.": {
+    "Hectares": 3725,
+    "National Share %": 2.85,
+    "": ""
+  },
+  "Tasmania": {
+    "Hectares": 680,
+    "National Share %": 0.52,
+    "": ""
+  },
+  "The Peninsulas": {
+    "Hectares": 50,
+    "National Share %": 0.04,
+    "": ""
+  },
+  "Tumbarumba": {
+    "Hectares": 278,
+    "National Share %": 0.21,
+    "": ""
+  },
+  "SE Coastal WA": {
+    "Hectares": 65,
+    "National Share %": 0.05,
+    "": ""
+  },
+  "West Plains Other": {
+    "Hectares": 328,
+    "National Share %": 0.25,
+    "": ""
+  },
+  "West Vic Other": {
+    "Hectares": 110,
+    "National Share %": 0.08,
+    "": ""
+  },
+  "Yarra Valley": {
+    "Hectares": 2038,
+    "National Share %": 1.56,
+    "": ""
+  },
+  "Total": {
+    "Hectares": 130602,
+    "National Share %": 100,
+    "": ""
+  }
+}

@@ -33,21 +33,33 @@ FrontPie = new d3pie("mainpie", {
 		"content": [
 			{
 				"label": "Varieties",
-				"value": 100,
+				"value": 85,
 				"color": "#043a00",
         "url"  : "#varieties"
 			},
 			{
-				"label": "Wine Regions",
-				"value": 100,
+				"label": "Regions",
+				"value": 110,
 				"color": "#0f4904",
         "url": "#regions"
 			},
 			{
-				"label": "Competitors",
-				"value": 100,
+				"label": " Competitors",
+				"value": 105,
 				"color": "#155d07",
         "url" : "#competition"
+			},
+			{
+				"label": "Employment",
+				"value": 100,
+				"color": "green",
+        "url" : "#employment"
+			},
+			{
+				"label": "Economy",
+				"value": 100,
+				"color": "green",
+        "url" : "#economy"
 			},
 			{
 				"label": "Vineyards",
