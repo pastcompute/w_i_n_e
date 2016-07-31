@@ -78,8 +78,9 @@ Router.prototype.handleTopWedge = function(url) {
     var bbox = data.regionbound.geometry.coordinates[0];
     console.log(JSON.stringify(bbox));
     console.log('Show map ' + bbox[0] + ';' + bbox[2]);
-    data.map.fitBounds([ [bbox[0][1], bbox[0][0]], [bbox[2][1], bbox[2][0]] ]); // ffs why is the map lat lon backwards from geojson
     data.map.addLayer(data.regionsItem);
+    data.map.fitBounds([ [bbox[0][1], bbox[0][0]], [bbox[2][1], bbox[2][0]] ]); // ffs why is the map lat lon backwards from geojson
+    data.map.setZoom(data.map.getZoom()+1);
   }
 
   if (url === '#vineyards') {
@@ -184,7 +185,7 @@ function onExports(x)
     // console.log(JSON.stringify(record));
     if (!_.has(types, record.Label)) { types.push(record.Label); }
     if (!_.has(dest, record.Destination)) { 
-      console.log('Add: ' + record.Destination);
+      // console.log('Add: ' + record.Destination);
       dest[record.Destination] = { qty:0, value:0, typeCount:0 };
     }
     dest[record.Destination].qty += record.Qty;
@@ -208,9 +209,9 @@ function onCountry(json) {
     style : function (feature) { return Styles['country_' + country]; }
   }).addTo(data.map);
   data.bbox[country] = turf.envelope(json);
-  console.log(JSON.stringify(data.bbox[country]));
+  // console.log(JSON.stringify(data.bbox[country]));
   var bbox = data.bbox[country].geometry.coordinates[0];
-  console.log(bbox[0] + ';' + bbox[2]);
+  // console.log(bbox[0] + ';' + bbox[2]);
   //data.map.fitBounds([ [bbox[0][1], bbox[0][0]], [bbox[2][1], bbox[2][0]] ]); // ffs why is the map lat lon backwards from geojson
 }
 
@@ -254,12 +255,22 @@ $.ajax('assets/regions.kml').done(function(xml) {
   // console.log(JSON.stringify(j)); -- featureCollection of polygons
   data.regiongeo = j;
   data.regionbound = turf.envelope(j);
-  console.log(JSON.stringify(data.regionbound));
+  console.log('All region bounding box ' + JSON.stringify(data.regionbound));
   var item = L.geoJson(j, {
     onEachFeature: function (feature, layer) {
       var x = data.bbox[feature.properties.name] = turf.envelope(feature);
     },
-    style : function (feature) { return Styles['regions']; }
+    style : function (feature) { 
+      var colour =randomColor({ luminosity: 'light', hue: 'blue' });
+      var style = {
+        weight: 3,
+        opacity: 1,
+        color: 'black',
+        fillColor: colour,
+        fillOpacity: 0.7
+      }
+      return style;
+    }
   });
   data.regionsItem = item;
 });
