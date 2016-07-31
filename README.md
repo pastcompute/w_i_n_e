@@ -4,6 +4,10 @@ W_I_N_E is an interactive tool that aims to teach potential employees, investors
 
 To view the demo, go to https://pastcompute.github.io/w_i_n_e/
 
+The app source code is in the [gh-pages branch](../../tree/gh-pages)
+
+See the [API Design](api.md)
+
 ## Outline
 
 This is a proof of concept web application, and given the time constraints of the weekend, we aim to only answer a few questions.
