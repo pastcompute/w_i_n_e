@@ -114,7 +114,9 @@ http://data.sa.gov.au/data/dataset/awhc
 SA Gov regions
 http://data.sa.gov.au/data/dataset/south-australian-government-regions
 
+http://portal.govhack.org/datasets/2016/australia/australian-broadcasting-corporation/abc-gateway-api.html
+
 # Embedded software components attribution
 
 * d3pie.js - https://github.com/benkeen/d3pie - MIT license
-
+* randomColor.js - https://github.com/davidmerfield/randomColor/blob/master/randomColor.js - CC0 License
