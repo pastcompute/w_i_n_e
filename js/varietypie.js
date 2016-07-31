@@ -53,8 +53,8 @@ function makeVarietyPieData() { return {
 			"decimalPlaces": 0
 		},
 		"value": {
-			"color": "#cccc43",
-			"fontSize": 11
+			"color": "#black",
+			"fontSize": 12
 		},
 		"lines": {
 			"enabled": true,
